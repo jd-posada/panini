@@ -128,17 +128,26 @@
     /* STICKER GRID */
     .sticker-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem; }
     @media (min-width: 400px) { .sticker-grid { grid-template-columns: repeat(5, 1fr); } }
-    .sticker { aspect-ratio: 1; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 0.6rem; font-weight: 700; cursor: pointer; transition: transform 0.1s; border: 1.5px solid transparent; position: relative; user-select: none; }
+    .sticker { aspect-ratio: 3/4; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; font-size: 0.6rem; font-weight: 700; cursor: pointer; transition: transform 0.1s; border: 2px solid transparent; position: relative; user-select: none; overflow: hidden; }
     .sticker:active { transform: scale(0.9); }
-    .sticker .sid   { font-size: 0.68rem; font-weight: 800; }
-    .sticker .sname { font-size: 0.48rem; opacity: 0.8; text-align: center; line-height: 1.2; padding: 0 2px; }
+    .sticker img   { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 8px; }
+    .sticker .sid  { position: relative; z-index: 2; font-size: 0.62rem; font-weight: 900; background: rgba(0,0,0,0.55); width: 100%; text-align: center; padding: 2px 0; line-height: 1.3; backdrop-filter: blur(2px); }
+    .sticker .sname { display: none; }
+    .sticker.no-img { justify-content: center; gap: 2px; }
+    .sticker.no-img .sid   { position: static; background: none; font-size: 0.68rem; }
+    .sticker.no-img .sname { display: block; font-size: 0.48rem; opacity: 0.8; text-align: center; line-height: 1.2; padding: 0 2px; }
     .sticker.missing   { background: var(--card); border-color: var(--border); color: var(--muted); }
-    .sticker.owned     { background: #14532d; border-color: var(--green); color: #86efac; }
-    .sticker.duplicate { background: #431407; border-color: var(--orange); color: #fdba74; }
-    .sticker.foil.owned   { background: #2e1065; border-color: var(--foil); color: #c4b5fd; }
+    .sticker.owned     { border-color: var(--green); color: #86efac; }
+    .sticker.owned.no-img  { background: #14532d; }
+    .sticker.duplicate { border-color: var(--orange); color: #fdba74; }
+    .sticker.duplicate.no-img { background: #431407; }
+    .sticker.foil.owned   { border-color: var(--foil); color: #c4b5fd; }
+    .sticker.foil.owned.no-img { background: #2e1065; }
     .sticker.foil.missing { border-color: #4c1d95; color: #6d28d9; }
-    .dup-badge  { position: absolute; top: 2px; right: 2px; background: var(--orange); color: #000; border-radius: 99px; font-size: 0.45rem; font-weight: 900; padding: 1px 3px; line-height: 1; }
-    .foil-badge { position: absolute; top: 2px; left: 2px; font-size: 0.45rem; opacity: 0.7; }
+    .sticker.missing img  { opacity: 0.35; filter: grayscale(1); }
+    .sticker.duplicate img { border: 0; }
+    .dup-badge  { position: absolute; top: 3px; right: 3px; z-index: 3; background: var(--orange); color: #000; border-radius: 99px; font-size: 0.5rem; font-weight: 900; padding: 1px 4px; line-height: 1.4; }
+    .foil-badge { position: absolute; top: 3px; left: 3px; z-index: 3; font-size: 0.5rem; }
 
     /* LEGEND */
     .legend { display: flex; gap: 0.9rem; padding: 0 0.9rem 0.5rem; flex-wrap: wrap; }
@@ -355,6 +364,7 @@
 
   <div class="trading-result">
     <div class="result-wrap empty" id="result-wrap">
+      <img id="result-img" src="" alt="" style="display:none;width:110px;border-radius:12px;margin-bottom:0.6rem;box-shadow:0 4px 20px rgba(0,0,0,0.5)" onerror="this.style.display='none'">
       <div class="result-icon" id="result-icon">🏅</div>
       <div class="result-id"   id="result-id"></div>
       <div class="result-name" id="result-name"></div>
@@ -499,10 +509,13 @@ function openModal(sec) {
   grid.innerHTML = '';
   sec.stickers.forEach(s => {
     const isDup = s.duplicates > 0;
-    const cls = ['sticker', s.type === 'foil' ? 'foil' : '', s.owned ? (isDup ? 'duplicate' : 'owned') : 'missing'].filter(Boolean).join(' ');
+    const hasImg = ['ARG','BRA','COL','ECU','ESP','FRA','NED','MEX','POR'].includes(s.section);
+    const cls = ['sticker', s.type === 'foil' ? 'foil' : '', s.owned ? (isDup ? 'duplicate' : 'owned') : 'missing', hasImg ? '' : 'no-img'].filter(Boolean).join(' ');
     const div = document.createElement('div');
     div.className = cls;
+    div.title = `${s.id} · ${s.name}`;
     div.innerHTML = `
+      ${hasImg ? `<img src="images/${s.id}.jpg" loading="lazy" onerror="this.parentElement.classList.add('no-img');this.remove()">` : ''}
       <span class="sid">${s.id}</span>
       <span class="sname">${s.name}</span>
       ${isDup ? `<span class="dup-badge">×${s.duplicates+1}</span>` : ''}
@@ -541,6 +554,13 @@ function resetResult() {
   document.getElementById('result-name').textContent = '';
   document.getElementById('result-team').textContent = '';
   document.getElementById('result-dup').style.display = 'none';
+  document.getElementById('result-img').style.display = 'none';
+}
+
+function showResultImg(id) {
+  const img = document.getElementById('result-img');
+  img.src = `images/${id}.jpg`;
+  img.style.display = 'block';
 }
 
 function checkSticker(raw) {
@@ -558,12 +578,13 @@ function checkSticker(raw) {
     return;
   }
 
+  showResultImg(id);
+  document.getElementById('result-id').textContent = id;
+  document.getElementById('result-name').textContent = s.name + (s.type === 'foil' ? ' ✨' : '');
+  document.getElementById('result-team').textContent = s.team + (s.group !== '-' ? ' · Grupo ' + s.group : '');
   if (s.owned) {
     document.getElementById('result-wrap').className = 'result-wrap found';
     document.getElementById('result-icon').textContent = '✅';
-    document.getElementById('result-id').textContent = id;
-    document.getElementById('result-name').textContent = s.name + (s.type === 'foil' ? ' ✨' : '');
-    document.getElementById('result-team').textContent = s.team + ' · Grupo ' + s.group;
     if (s.duplicates > 0) {
       document.getElementById('result-dup').style.display = 'block';
       document.getElementById('result-dup').textContent = `🔁 Ya tenés ${s.duplicates + 1} de esta`;
@@ -573,9 +594,6 @@ function checkSticker(raw) {
   } else {
     document.getElementById('result-wrap').className = 'result-wrap missing';
     document.getElementById('result-icon').textContent = '❌';
-    document.getElementById('result-id').textContent = id;
-    document.getElementById('result-name').textContent = s.name + (s.type === 'foil' ? ' ✨' : '');
-    document.getElementById('result-team').textContent = s.team + ' · Grupo ' + s.group;
     document.getElementById('result-dup').style.display = 'none';
   }
 }
