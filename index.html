@@ -354,6 +354,7 @@
       autocorrect="off"
       spellcheck="false"
       oninput="checkSticker(this.value)"
+      onkeydown="if(event.key==='Enter'){this.value='';resetResult();}"
     >
   </div>
 
