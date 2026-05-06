@@ -547,6 +547,102 @@ function closeTrading() {
   resetResult();
 }
 
+// Mapa de nombres completos (español + variantes voz) → código
+const NAME_TO_CODE = {
+  // Grupo A
+  'mexico':['MEX'],'méxico':['MEX'],
+  'sudafrica':['RSA'],'sudáfrica':['RSA'],'sur africa':['RSA'],'south africa':['RSA'],
+  'corea':['KOR'],'corea del sur':['KOR'],'korea':['KOR'],
+  'chequia':['CZE'],'republica checa':['CZE'],'república checa':['CZE'],'czechia':['CZE'],
+  // Grupo B
+  'canada':['CAN'],'canadá':['CAN'],
+  'suiza':['SUI'],'switzerland':['SUI'],
+  'qatar':['QAT'],'catar':['QAT'],
+  'bosnia':['BIH'],'bosnia y herzegovina':['BIH'],'herzegovina':['BIH'],
+  // Grupo C
+  'brasil':['BRA'],'brazil':['BRA'],
+  'marruecos':['MAR'],'morocco':['MAR'],
+  'haiti':['HAI'],'haití':['HAI'],
+  'escocia':['SCO'],'scotland':['SCO'],
+  // Grupo D
+  'estados unidos':['USA'],'eeuu':['USA'],'usa':['USA'],
+  'paraguay':['PAR'],
+  'australia':['AUS'],
+  'turquia':['TUR'],'turquía':['TUR'],'turkiye':['TUR'],'türkiye':['TUR'],
+  // Grupo E
+  'alemania':['GER'],'germany':['GER'],
+  'curacao':['CUW'],'curaçao':['CUW'],
+  'costa de marfil':['CIV'],'marfil':['CIV'],'ivory coast':['CIV'],
+  'ecuador':['ECU'],
+  // Grupo F
+  'paises bajos':['NED'],'países bajos':['NED'],'holanda':['NED'],'netherlands':['NED'],
+  'japon':['JPN'],'japón':['JPN'],'japan':['JPN'],
+  'tunez':['TUN'],'túnez':['TUN'],'tunisia':['TUN'],
+  'suecia':['SWE'],'sweden':['SWE'],
+  // Grupo G
+  'belgica':['BEL'],'bélgica':['BEL'],'belgium':['BEL'],
+  'egipto':['EGY'],'egypt':['EGY'],
+  'iran':['IRN'],'irán':['IRN'],
+  'nueva zelanda':['NZL'],'new zealand':['NZL'],
+  // Grupo H
+  'españa':['ESP'],'espana':['ESP'],'spain':['ESP'],
+  'cabo verde':['CPV'],'cape verde':['CPV'],
+  'arabia saudi':['KSA'],'arabia saudí':['KSA'],'arabia':['KSA'],'saudi arabia':['KSA'],
+  'uruguay':['URU'],
+  // Grupo I
+  'francia':['FRA'],'france':['FRA'],
+  'senegal':['SEN'],
+  'noruega':['NOR'],'norway':['NOR'],
+  'irak':['IRQ'],'iraq':['IRQ'],
+  // Grupo J
+  'argentina':['ARG'],
+  'argelia':['ALG'],'algeria':['ALG'],
+  'austria':['AUT'],
+  'jordania':['JOR'],'jordan':['JOR'],
+  // Grupo K
+  'portugal':['POR'],
+  'uzbekistan':['UZB'],'uzbekistán':['UZB'],
+  'colombia':['COL'],
+  'congo':['COD'],'rd congo':['COD'],'r.d. congo':['COD'],
+  // Grupo L
+  'inglaterra':['ENG'],'england':['ENG'],
+  'croacia':['CRO'],'croatia':['CRO'],
+  'ghana':['GHA'],
+  'panama':['PAN'],'panamá':['PAN'],
+};
+
+function normalizeStr(s) {
+  return s.toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '') // quita tildes
+    .replace(/[^a-z0-9\s]/g, '')
+    .trim();
+}
+
+function parseInput(raw) {
+  // Normalizar entrada
+  const clean = normalizeStr(raw);
+
+  // 1. Código directo tipo "ARG4" o "ARG 4"
+  const direct = clean.replace(/\s+/g, '').toUpperCase();
+  if (db && db.stickers[direct]) return direct;
+
+  // 2. "Nombre completo + número" tipo "Argentina 4" o "Colombia 12"
+  const match = clean.match(/^(.+?)\s+(\d+)$/);
+  if (match) {
+    const namePart = match[1].trim();
+    const num = match[2];
+    // Buscar en el mapa (de más largo a más corto para evitar colisiones)
+    const sortedKeys = Object.keys(NAME_TO_CODE).sort((a,b) => b.length - a.length);
+    for (const key of sortedKeys) {
+      if (namePart === key || namePart.endsWith(key)) {
+        const code = NAME_TO_CODE[key][0];
+        return code + num;
+      }
+    }
+  }
+  return direct; // fallback
+}
+
 function resetResult() {
   document.getElementById('result-wrap').className = 'result-wrap empty';
   document.getElementById('result-icon').textContent = '🏅';
@@ -564,8 +660,8 @@ function showResultImg(id) {
 }
 
 function checkSticker(raw) {
-  const id = raw.trim().toUpperCase().replace(/\s+/g, '');
-  if (!id || !db) { resetResult(); return; }
+  if (!raw.trim() || !db) { resetResult(); return; }
+  const id = parseInput(raw);
 
   const s = db.stickers[id];
   if (!s) {
