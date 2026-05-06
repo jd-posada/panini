@@ -3,7 +3,7 @@
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
     "collected": 3,
-    "lastUpdated": "2026-05-05",
+    "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
   "stickers": {
@@ -4765,7 +4765,7 @@
       "name": "Jugador 14",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "TUN17": {
       "section": "TUN",
