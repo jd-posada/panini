@@ -2,8 +2,8 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 259,
-    "lastUpdated": "2026-05-06",
+    "collected": 277,
+    "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
   "stickers": {
@@ -5414,7 +5414,7 @@
       "team": "Irán",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN2": {
@@ -5424,7 +5424,7 @@
       "team": "Irán",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN3": {
@@ -5434,7 +5434,7 @@
       "team": "Irán",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN4": {
@@ -5444,7 +5444,7 @@
       "team": "Irán",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN5": {
@@ -5454,7 +5454,7 @@
       "team": "Irán",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN6": {
@@ -5474,8 +5474,8 @@
       "team": "Irán",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "IRN8": {
       "section": "IRN",
@@ -5484,8 +5484,8 @@
       "team": "Irán",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "IRN9": {
       "section": "IRN",
@@ -5494,7 +5494,7 @@
       "team": "Irán",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN10": {
@@ -5504,7 +5504,7 @@
       "team": "Irán",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN11": {
@@ -5514,7 +5514,7 @@
       "team": "Irán",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN12": {
@@ -5524,7 +5524,7 @@
       "team": "Irán",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN13": {
@@ -5544,7 +5544,7 @@
       "team": "Irán",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN15": {
@@ -5554,7 +5554,7 @@
       "team": "Irán",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN16": {
@@ -5564,8 +5564,8 @@
       "team": "Irán",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "IRN17": {
       "section": "IRN",
@@ -5574,7 +5574,7 @@
       "team": "Irán",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN18": {
@@ -5584,7 +5584,7 @@
       "team": "Irán",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN19": {
@@ -5594,7 +5594,7 @@
       "team": "Irán",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN20": {
@@ -5604,7 +5604,7 @@
       "team": "Irán",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NZL1": {
