@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 471,
+    "collected": 484,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -814,7 +814,7 @@
       "team": "Chequia",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE2": {
@@ -824,7 +824,7 @@
       "team": "Chequia",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE3": {
@@ -844,7 +844,7 @@
       "team": "Chequia",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE5": {
@@ -854,8 +854,8 @@
       "team": "Chequia",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CZE6": {
       "section": "CZE",
@@ -874,7 +874,7 @@
       "team": "Chequia",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE8": {
@@ -884,7 +884,7 @@
       "team": "Chequia",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE9": {
@@ -894,7 +894,7 @@
       "team": "Chequia",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE10": {
@@ -914,7 +914,7 @@
       "team": "Chequia",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE12": {
@@ -924,7 +924,7 @@
       "team": "Chequia",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE13": {
@@ -934,7 +934,7 @@
       "team": "Chequia",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE14": {
@@ -974,7 +974,7 @@
       "team": "Chequia",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE18": {
@@ -984,8 +984,8 @@
       "team": "Chequia",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CZE19": {
       "section": "CZE",
@@ -1004,7 +1004,7 @@
       "team": "Chequia",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN1": {
