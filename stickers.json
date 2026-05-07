@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 562,
+    "collected": 577,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -14,8 +14,8 @@
       "team": "Especiales",
       "name": "Emblema Oficial",
       "type": "foil",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "FWC2": {
       "section": "FWC",
@@ -24,7 +24,7 @@
       "team": "Especiales",
       "name": "Emblema Oficial 2",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FWC3": {
@@ -34,7 +34,7 @@
       "team": "Especiales",
       "name": "Mascota Oficial",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FWC4": {
@@ -54,7 +54,7 @@
       "team": "Especiales",
       "name": "Balón Oficial",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FWC6": {
@@ -74,7 +74,7 @@
       "team": "Especiales",
       "name": "México - Sede",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FWC8": {
@@ -94,8 +94,8 @@
       "team": "Especiales",
       "name": "Introducción 1",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "FWC10": {
       "section": "FWC",
@@ -114,8 +114,8 @@
       "team": "Especiales",
       "name": "Introducción 3",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "FWC12": {
       "section": "FWC",
@@ -124,8 +124,8 @@
       "team": "Especiales",
       "name": "Introducción 4",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "FWC13": {
       "section": "FWC",
@@ -134,7 +134,7 @@
       "team": "Especiales",
       "name": "Introducción 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FWC14": {
@@ -144,8 +144,8 @@
       "team": "Especiales",
       "name": "Introducción 6",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "FWC15": {
       "section": "FWC",
@@ -154,7 +154,7 @@
       "team": "Especiales",
       "name": "Introducción 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FWC16": {
@@ -164,8 +164,8 @@
       "team": "Especiales",
       "name": "Introducción 8",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "FWC17": {
       "section": "FWC",
@@ -174,7 +174,7 @@
       "team": "Especiales",
       "name": "Introducción 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FWC18": {
@@ -184,7 +184,7 @@
       "team": "Especiales",
       "name": "FIFA Museum 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FWC19": {
@@ -194,7 +194,7 @@
       "team": "Especiales",
       "name": "FIFA Museum 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FWC20": {
