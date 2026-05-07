@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 407,
+    "collected": 422,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -3814,7 +3814,7 @@
       "team": "Costa de Marfil",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CIV2": {
@@ -3824,7 +3824,7 @@
       "team": "Costa de Marfil",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CIV3": {
@@ -3834,7 +3834,7 @@
       "team": "Costa de Marfil",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CIV4": {
@@ -3844,8 +3844,8 @@
       "team": "Costa de Marfil",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CIV5": {
       "section": "CIV",
@@ -3864,7 +3864,7 @@
       "team": "Costa de Marfil",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CIV7": {
@@ -3894,7 +3894,7 @@
       "team": "Costa de Marfil",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CIV10": {
@@ -3914,7 +3914,7 @@
       "team": "Costa de Marfil",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CIV12": {
@@ -3924,7 +3924,7 @@
       "team": "Costa de Marfil",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CIV13": {
@@ -3934,8 +3934,8 @@
       "team": "Costa de Marfil",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CIV14": {
       "section": "CIV",
@@ -3944,7 +3944,7 @@
       "team": "Costa de Marfil",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CIV15": {
@@ -3964,7 +3964,7 @@
       "team": "Costa de Marfil",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CIV17": {
@@ -3974,7 +3974,7 @@
       "team": "Costa de Marfil",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CIV18": {
@@ -3984,8 +3984,8 @@
       "team": "Costa de Marfil",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CIV19": {
       "section": "CIV",
@@ -3994,7 +3994,7 @@
       "team": "Costa de Marfil",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CIV20": {
@@ -4004,7 +4004,7 @@
       "team": "Costa de Marfil",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ECU1": {
