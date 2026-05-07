@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 438,
+    "collected": 445,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -8844,8 +8844,8 @@
       "team": "R.D. Congo",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "COD5": {
       "section": "COD",
@@ -8854,7 +8854,7 @@
       "team": "R.D. Congo",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COD6": {
@@ -8874,7 +8874,7 @@
       "team": "R.D. Congo",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COD8": {
@@ -8914,8 +8914,8 @@
       "team": "R.D. Congo",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "COD12": {
       "section": "COD",
@@ -8944,7 +8944,7 @@
       "team": "R.D. Congo",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COD15": {
@@ -8964,7 +8964,7 @@
       "team": "R.D. Congo",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COD17": {
@@ -8974,7 +8974,7 @@
       "team": "R.D. Congo",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COD18": {
