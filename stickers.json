@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 484,
+    "collected": 491,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -1824,7 +1824,7 @@
       "team": "Brasil",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BRA3": {
@@ -1934,7 +1934,7 @@
       "team": "Brasil",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BRA14": {
@@ -1944,7 +1944,7 @@
       "team": "Brasil",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BRA15": {
@@ -1954,7 +1954,7 @@
       "team": "Brasil",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BRA16": {
@@ -1984,7 +1984,7 @@
       "team": "Brasil",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BRA19": {
@@ -1994,7 +1994,7 @@
       "team": "Brasil",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BRA20": {
@@ -2004,7 +2004,7 @@
       "team": "Brasil",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MAR1": {
