@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 210,
+    "collected": 216,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -7034,7 +7034,7 @@
       "team": "Noruega",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NOR4": {
@@ -7074,7 +7074,7 @@
       "team": "Noruega",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NOR8": {
@@ -7114,8 +7114,8 @@
       "team": "Noruega",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "NOR12": {
       "section": "NOR",
@@ -7164,8 +7164,8 @@
       "team": "Noruega",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "NOR17": {
       "section": "NOR",
@@ -7174,8 +7174,8 @@
       "team": "Noruega",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "NOR18": {
       "section": "NOR",
@@ -7194,7 +7194,7 @@
       "team": "Noruega",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NOR20": {
