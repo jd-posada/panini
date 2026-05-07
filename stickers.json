@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 32,
+    "collected": 45,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -2614,8 +2614,8 @@
       "team": "Estados Unidos",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "USA2": {
       "section": "USA",
@@ -2624,7 +2624,7 @@
       "team": "Estados Unidos",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "USA3": {
@@ -2644,7 +2644,7 @@
       "team": "Estados Unidos",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "USA5": {
@@ -2664,7 +2664,7 @@
       "team": "Estados Unidos",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "USA7": {
@@ -2684,7 +2684,7 @@
       "team": "Estados Unidos",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "USA9": {
@@ -2704,8 +2704,8 @@
       "team": "Estados Unidos",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "USA11": {
       "section": "USA",
@@ -2724,7 +2724,7 @@
       "team": "Estados Unidos",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "USA13": {
@@ -2734,7 +2734,7 @@
       "team": "Estados Unidos",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "USA14": {
@@ -2764,7 +2764,7 @@
       "team": "Estados Unidos",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "USA17": {
@@ -2774,7 +2774,7 @@
       "team": "Estados Unidos",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "USA18": {
@@ -2784,7 +2784,7 @@
       "team": "Estados Unidos",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "USA19": {
@@ -2794,8 +2794,8 @@
       "team": "Estados Unidos",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "USA20": {
       "section": "USA",
@@ -2804,8 +2804,8 @@
       "team": "Estados Unidos",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "PAR1": {
       "section": "PAR",
