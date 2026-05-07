@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 54,
+    "collected": 63,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -4654,8 +4654,8 @@
       "team": "Túnez",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "TUN6": {
       "section": "TUN",
@@ -4664,8 +4664,8 @@
       "team": "Túnez",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "TUN7": {
       "section": "TUN",
@@ -4674,8 +4674,8 @@
       "team": "Túnez",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 2
     },
     "TUN8": {
       "section": "TUN",
@@ -4734,8 +4734,8 @@
       "team": "Túnez",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "TUN14": {
       "section": "TUN",
@@ -4754,8 +4754,8 @@
       "team": "Túnez",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "TUN16": {
       "section": "TUN",
@@ -4764,7 +4764,7 @@
       "team": "Túnez",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "TUN17": {
@@ -4774,7 +4774,7 @@
       "team": "Túnez",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "TUN18": {
@@ -4784,7 +4784,7 @@
       "team": "Túnez",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "TUN19": {
@@ -4804,7 +4804,7 @@
       "team": "Túnez",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SWE1": {
