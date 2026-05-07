@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 96,
+    "collected": 112,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -2414,7 +2414,7 @@
       "team": "Escocia",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SCO2": {
@@ -2434,7 +2434,7 @@
       "team": "Escocia",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SCO4": {
@@ -2454,8 +2454,8 @@
       "team": "Escocia",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 2
     },
     "SCO6": {
       "section": "SCO",
@@ -2464,7 +2464,7 @@
       "team": "Escocia",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SCO7": {
@@ -2474,8 +2474,8 @@
       "team": "Escocia",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SCO8": {
       "section": "SCO",
@@ -2484,8 +2484,8 @@
       "team": "Escocia",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SCO9": {
       "section": "SCO",
@@ -2494,8 +2494,8 @@
       "team": "Escocia",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SCO10": {
       "section": "SCO",
@@ -2504,8 +2504,8 @@
       "team": "Escocia",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SCO11": {
       "section": "SCO",
@@ -2514,8 +2514,8 @@
       "team": "Escocia",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SCO12": {
       "section": "SCO",
@@ -2524,7 +2524,7 @@
       "team": "Escocia",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SCO13": {
@@ -2544,7 +2544,7 @@
       "team": "Escocia",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SCO15": {
@@ -2554,7 +2554,7 @@
       "team": "Escocia",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SCO16": {
@@ -2564,7 +2564,7 @@
       "team": "Escocia",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SCO17": {
@@ -2574,7 +2574,7 @@
       "team": "Escocia",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SCO18": {
@@ -2594,7 +2594,7 @@
       "team": "Escocia",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SCO20": {
@@ -2604,7 +2604,7 @@
       "team": "Escocia",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "USA1": {
