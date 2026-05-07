@@ -1655,7 +1655,7 @@
       "name": "Jugador 3",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "BIH6": {
       "section": "BIH",
@@ -1705,7 +1705,7 @@
       "name": "Jugador 8",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "BIH11": {
       "section": "BIH",
@@ -1795,7 +1795,7 @@
       "name": "Jugador 17",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "BIH20": {
       "section": "BIH",
@@ -2615,7 +2615,7 @@
       "name": "Escudo",
       "type": "foil",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "USA2": {
       "section": "USA",
@@ -4345,7 +4345,7 @@
       "name": "Frenkie de Jong",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "NED15": {
       "section": "NED",
@@ -5065,7 +5065,7 @@
       "name": "Jugador 4",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "BEL7": {
       "section": "BEL",
@@ -6165,7 +6165,7 @@
       "name": "Jugador 14",
       "type": "base",
       "owned": true,
-      "duplicates": 2
+      "duplicates": 1
     },
     "CPV17": {
       "section": "CPV",
@@ -6215,7 +6215,7 @@
       "name": "Escudo",
       "type": "foil",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "KSA2": {
       "section": "KSA",
@@ -6705,7 +6705,7 @@
       "name": "Eduardo Camavinga",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "FRA11": {
       "section": "FRA",
@@ -7225,7 +7225,7 @@
       "name": "Foto Equipo",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "IRQ3": {
       "section": "IRQ",
@@ -7875,7 +7875,7 @@
       "name": "Jugador 5",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "AUT8": {
       "section": "AUT",
@@ -8535,7 +8535,7 @@
       "name": "Jugador 11",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "UZB14": {
       "section": "UZB",
@@ -8635,7 +8635,7 @@
       "name": "David Ospina",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "COL4": {
       "section": "COL",
@@ -8845,7 +8845,7 @@
       "name": "Jugador 2",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "COD5": {
       "section": "COD",
@@ -9415,7 +9415,7 @@
       "name": "Escudo",
       "type": "foil",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "GHA2": {
       "section": "GHA",
