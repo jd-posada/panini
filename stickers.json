@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 551,
+    "collected": 562,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -7614,7 +7614,7 @@
       "team": "Argelia",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ALG2": {
@@ -7644,7 +7644,7 @@
       "team": "Argelia",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ALG5": {
@@ -7684,7 +7684,7 @@
       "team": "Argelia",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ALG9": {
@@ -7694,7 +7694,7 @@
       "team": "Argelia",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ALG10": {
@@ -7714,7 +7714,7 @@
       "team": "Argelia",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ALG12": {
@@ -7724,7 +7724,7 @@
       "team": "Argelia",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ALG13": {
@@ -7734,7 +7734,7 @@
       "team": "Argelia",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ALG14": {
@@ -7744,7 +7744,7 @@
       "team": "Argelia",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ALG15": {
@@ -7774,7 +7774,7 @@
       "team": "Argelia",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ALG18": {
@@ -7784,7 +7784,7 @@
       "team": "Argelia",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ALG19": {
@@ -7794,7 +7794,7 @@
       "team": "Argelia",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ALG20": {
