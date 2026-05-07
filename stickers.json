@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 491,
+    "collected": 503,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -1624,7 +1624,7 @@
       "team": "Bosnia y Herzegovina",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BIH3": {
@@ -1644,7 +1644,7 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BIH5": {
@@ -1654,8 +1654,8 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "BIH6": {
       "section": "BIH",
@@ -1664,7 +1664,7 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BIH7": {
@@ -1684,7 +1684,7 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BIH9": {
@@ -1704,8 +1704,8 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "BIH11": {
       "section": "BIH",
@@ -1714,8 +1714,8 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "BIH12": {
       "section": "BIH",
@@ -1734,7 +1734,7 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BIH14": {
@@ -1744,7 +1744,7 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BIH15": {
@@ -1764,8 +1764,8 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 2
     },
     "BIH17": {
       "section": "BIH",
@@ -1794,8 +1794,8 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "BIH20": {
       "section": "BIH",
@@ -1804,8 +1804,8 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "BRA1": {
       "section": "BRA",
