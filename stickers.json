@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 185,
+    "collected": 196,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -214,7 +214,7 @@
       "team": "México",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX2": {
@@ -224,7 +224,7 @@
       "team": "México",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX3": {
@@ -254,7 +254,7 @@
       "team": "México",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX6": {
@@ -294,7 +294,7 @@
       "team": "México",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX10": {
@@ -304,7 +304,7 @@
       "team": "México",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX11": {
@@ -314,7 +314,7 @@
       "team": "México",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX12": {
@@ -344,7 +344,7 @@
       "team": "México",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX15": {
@@ -364,7 +364,7 @@
       "team": "México",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX17": {
@@ -374,7 +374,7 @@
       "team": "México",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX18": {
@@ -384,7 +384,7 @@
       "team": "México",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX19": {
@@ -404,7 +404,7 @@
       "team": "México",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA1": {
