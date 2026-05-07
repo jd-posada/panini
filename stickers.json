@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 513,
+    "collected": 524,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -7824,7 +7824,7 @@
       "team": "Austria",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUT3": {
@@ -7834,7 +7834,7 @@
       "team": "Austria",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUT4": {
@@ -7844,7 +7844,7 @@
       "team": "Austria",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUT5": {
@@ -7874,8 +7874,8 @@
       "team": "Austria",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "AUT8": {
       "section": "AUT",
@@ -7884,7 +7884,7 @@
       "team": "Austria",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUT9": {
@@ -7904,7 +7904,7 @@
       "team": "Austria",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUT11": {
@@ -7924,8 +7924,8 @@
       "team": "Austria",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "AUT13": {
       "section": "AUT",
@@ -7944,7 +7944,7 @@
       "team": "Austria",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUT15": {
@@ -7954,7 +7954,7 @@
       "team": "Austria",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUT16": {
@@ -7984,7 +7984,7 @@
       "team": "Austria",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUT19": {
@@ -7994,7 +7994,7 @@
       "team": "Austria",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUT20": {
