@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 159,
+    "collected": 167,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -6214,8 +6214,8 @@
       "team": "Arabia Saudí",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "KSA2": {
       "section": "KSA",
@@ -6254,7 +6254,7 @@
       "team": "Arabia Saudí",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KSA6": {
@@ -6264,7 +6264,7 @@
       "team": "Arabia Saudí",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KSA7": {
@@ -6284,7 +6284,7 @@
       "team": "Arabia Saudí",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KSA9": {
@@ -6294,7 +6294,7 @@
       "team": "Arabia Saudí",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KSA10": {
@@ -6304,7 +6304,7 @@
       "team": "Arabia Saudí",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KSA11": {
@@ -6354,7 +6354,7 @@
       "team": "Arabia Saudí",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KSA16": {
@@ -6394,7 +6394,7 @@
       "team": "Arabia Saudí",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KSA20": {
