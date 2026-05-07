@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 63,
+    "collected": 74,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -4814,7 +4814,7 @@
       "team": "Suecia",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SWE2": {
@@ -4844,8 +4844,8 @@
       "team": "Suecia",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SWE5": {
       "section": "SWE",
@@ -4854,7 +4854,7 @@
       "team": "Suecia",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SWE6": {
@@ -4864,7 +4864,7 @@
       "team": "Suecia",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SWE7": {
@@ -4894,7 +4894,7 @@
       "team": "Suecia",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SWE10": {
@@ -4904,7 +4904,7 @@
       "team": "Suecia",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SWE11": {
@@ -4914,7 +4914,7 @@
       "team": "Suecia",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SWE12": {
@@ -4944,7 +4944,7 @@
       "team": "Suecia",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SWE15": {
@@ -4954,7 +4954,7 @@
       "team": "Suecia",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SWE16": {
@@ -4984,7 +4984,7 @@
       "team": "Suecia",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SWE19": {
@@ -4994,7 +4994,7 @@
       "team": "Suecia",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SWE20": {
