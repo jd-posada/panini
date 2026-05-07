@@ -509,7 +509,7 @@ function openModal(sec) {
   grid.innerHTML = '';
   sec.stickers.forEach(s => {
     const isDup = s.duplicates > 0;
-    const hasImg = ['ARG','BRA','COL','ECU','ESP','FRA','NED','MEX','POR'].includes(s.section);
+    const hasImg = ['ARG','BRA','COL','ECU','ESP','FRA','NED','MEX','POR','RSA','CAN','CZE','ENG','GER','JPN','KOR','MAR','SEN','TUR','URU'].includes(s.section);
     const cls = ['sticker', s.type === 'foil' ? 'foil' : '', s.owned ? (isDup ? 'duplicate' : 'owned') : 'missing', hasImg ? '' : 'no-img'].filter(Boolean).join(' ');
     const div = document.createElement('div');
     div.className = cls;
