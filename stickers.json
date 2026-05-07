@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 291,
+    "collected": 292,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -5464,7 +5464,7 @@
       "team": "Irán",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "IRN7": {
