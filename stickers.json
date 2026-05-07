@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 196,
+    "collected": 210,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -4214,7 +4214,7 @@
       "team": "Países Bajos",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NED2": {
@@ -4234,7 +4234,7 @@
       "team": "Países Bajos",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NED4": {
@@ -4254,7 +4254,7 @@
       "team": "Países Bajos",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NED6": {
@@ -4274,7 +4274,7 @@
       "team": "Países Bajos",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NED8": {
@@ -4284,7 +4284,7 @@
       "team": "Países Bajos",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NED9": {
@@ -4294,7 +4294,7 @@
       "team": "Países Bajos",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NED10": {
@@ -4304,7 +4304,7 @@
       "team": "Países Bajos",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NED11": {
@@ -4314,7 +4314,7 @@
       "team": "Países Bajos",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NED12": {
@@ -4324,8 +4324,8 @@
       "team": "Países Bajos",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "NED13": {
       "section": "NED",
@@ -4334,7 +4334,7 @@
       "team": "Países Bajos",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NED14": {
@@ -4344,8 +4344,8 @@
       "team": "Países Bajos",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "NED15": {
       "section": "NED",
@@ -4354,7 +4354,7 @@
       "team": "Países Bajos",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NED16": {
@@ -4364,7 +4364,7 @@
       "team": "Países Bajos",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NED17": {
@@ -4384,8 +4384,8 @@
       "team": "Países Bajos",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "NED19": {
       "section": "NED",
