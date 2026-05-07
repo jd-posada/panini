@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 330,
+    "collected": 346,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -6634,7 +6634,7 @@
       "team": "Francia",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FRA4": {
@@ -6654,7 +6654,7 @@
       "team": "Francia",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FRA6": {
@@ -6664,8 +6664,8 @@
       "team": "Francia",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "FRA7": {
       "section": "FRA",
@@ -6674,8 +6674,8 @@
       "team": "Francia",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "FRA8": {
       "section": "FRA",
@@ -6684,7 +6684,7 @@
       "team": "Francia",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FRA9": {
@@ -6694,7 +6694,7 @@
       "team": "Francia",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FRA10": {
@@ -6704,8 +6704,8 @@
       "team": "Francia",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "FRA11": {
       "section": "FRA",
@@ -6714,8 +6714,8 @@
       "team": "Francia",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "FRA12": {
       "section": "FRA",
@@ -6724,7 +6724,7 @@
       "team": "Francia",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FRA13": {
@@ -6734,7 +6734,7 @@
       "team": "Francia",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FRA14": {
@@ -6744,7 +6744,7 @@
       "team": "Francia",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FRA15": {
@@ -6754,7 +6754,7 @@
       "team": "Francia",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FRA16": {
@@ -6764,7 +6764,7 @@
       "team": "Francia",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FRA17": {
@@ -6784,7 +6784,7 @@
       "team": "Francia",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FRA19": {
@@ -6794,7 +6794,7 @@
       "team": "Francia",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FRA20": {
@@ -6804,8 +6804,8 @@
       "team": "Francia",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SEN1": {
       "section": "SEN",
