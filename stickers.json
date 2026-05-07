@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 536,
+    "collected": 551,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -7414,8 +7414,8 @@
       "team": "Argentina",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "ARG2": {
       "section": "ARG",
@@ -7424,7 +7424,7 @@
       "team": "Argentina",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG3": {
@@ -7434,7 +7434,7 @@
       "team": "Argentina",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG4": {
@@ -7444,7 +7444,7 @@
       "team": "Argentina",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG5": {
@@ -7454,7 +7454,7 @@
       "team": "Argentina",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG6": {
@@ -7464,7 +7464,7 @@
       "team": "Argentina",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG7": {
@@ -7484,7 +7484,7 @@
       "team": "Argentina",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG9": {
@@ -7494,7 +7494,7 @@
       "team": "Argentina",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG10": {
@@ -7524,7 +7524,7 @@
       "team": "Argentina",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG13": {
@@ -7544,7 +7544,7 @@
       "team": "Argentina",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG15": {
@@ -7554,7 +7554,7 @@
       "team": "Argentina",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG16": {
@@ -7564,7 +7564,7 @@
       "team": "Argentina",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG17": {
@@ -7574,7 +7574,7 @@
       "team": "Argentina",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG18": {
@@ -7584,7 +7584,7 @@
       "team": "Argentina",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG19": {
@@ -7594,7 +7594,7 @@
       "team": "Argentina",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ARG20": {
