@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 605,
+    "collected": 629,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -1354,7 +1354,7 @@
       "team": "Suiza",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SUI16": {
@@ -1374,7 +1374,7 @@
       "team": "Suiza",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SUI18": {
@@ -1384,7 +1384,7 @@
       "team": "Suiza",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SUI19": {
@@ -1844,7 +1844,7 @@
       "team": "Brasil",
       "name": "Marquinhos",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BRA5": {
@@ -1854,7 +1854,7 @@
       "team": "Brasil",
       "name": "Éder Militão",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BRA6": {
@@ -1884,7 +1884,7 @@
       "team": "Brasil",
       "name": "Wesley",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BRA9": {
@@ -1924,7 +1924,7 @@
       "team": "Brasil",
       "name": "Luiz Henrique",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BRA13": {
@@ -1974,7 +1974,7 @@
       "team": "Brasil",
       "name": "Matheus Cunha",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BRA18": {
@@ -2024,7 +2024,7 @@
       "team": "Marruecos",
       "name": "Yassine Bounou",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MAR3": {
@@ -2034,7 +2034,7 @@
       "team": "Marruecos",
       "name": "Munir El Kajoui",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MAR4": {
@@ -2054,7 +2054,7 @@
       "team": "Marruecos",
       "name": "Noussair Mazraoui",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MAR6": {
@@ -2064,7 +2064,7 @@
       "team": "Marruecos",
       "name": "Nayef Aguerd",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MAR7": {
@@ -2074,7 +2074,7 @@
       "team": "Marruecos",
       "name": "Romain Saïss",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MAR8": {
@@ -2194,7 +2194,7 @@
       "team": "Marruecos",
       "name": "Brahim Díaz",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MAR20": {
@@ -2294,7 +2294,7 @@
       "team": "Haití",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "HAI10": {
@@ -2384,7 +2384,7 @@
       "team": "Haití",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "HAI19": {
@@ -2424,7 +2424,7 @@
       "team": "Escocia",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SCO3": {
@@ -2444,8 +2444,8 @@
       "team": "Escocia",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SCO5": {
       "section": "SCO",
@@ -2844,7 +2844,7 @@
       "team": "Paraguay",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR5": {
@@ -2884,7 +2884,7 @@
       "team": "Paraguay",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR9": {
@@ -2924,7 +2924,7 @@
       "team": "Paraguay",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR13": {
@@ -2974,7 +2974,7 @@
       "team": "Paraguay",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR18": {
@@ -3044,7 +3044,7 @@
       "team": "Australia",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS5": {
@@ -3054,7 +3054,7 @@
       "team": "Australia",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS6": {
