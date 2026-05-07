@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 585,
+    "collected": 605,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -274,7 +274,7 @@
       "team": "México",
       "name": "Israel Reyes",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX8": {
@@ -564,8 +564,8 @@
       "team": "Sudáfrica",
       "name": "Sipho Mbule",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "RSA17": {
       "section": "RSA",
@@ -624,8 +624,8 @@
       "team": "Corea del Sur",
       "name": "Hyeonwoo Jo",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "KOR3": {
       "section": "KOR",
@@ -684,7 +684,7 @@
       "team": "Corea del Sur",
       "name": "Taeseok Lee",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KOR9": {
@@ -694,7 +694,7 @@
       "team": "Corea del Sur",
       "name": "Myungjae Lee",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KOR10": {
@@ -724,7 +724,7 @@
       "team": "Corea del Sur",
       "name": "Kangin Lee",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KOR13": {
@@ -754,8 +754,8 @@
       "team": "Corea del Sur",
       "name": "Jens Castrop",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 2
     },
     "KOR16": {
       "section": "KOR",
@@ -784,7 +784,7 @@
       "team": "Corea del Sur",
       "name": "Heungmin Son",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KOR19": {
@@ -794,7 +794,7 @@
       "team": "Corea del Sur",
       "name": "Heechan Hwang",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KOR20": {
@@ -834,7 +834,7 @@
       "team": "Chequia",
       "name": "Jindřich Staněk",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE4": {
@@ -994,7 +994,7 @@
       "team": "Chequia",
       "name": "Adam Hložek",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE20": {
@@ -1014,7 +1014,7 @@
       "team": "Canadá",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN2": {
@@ -1024,7 +1024,7 @@
       "team": "Canadá",
       "name": "Dayne St. Clair",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN3": {
@@ -1434,7 +1434,7 @@
       "team": "Qatar",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT4": {
@@ -1474,7 +1474,7 @@
       "team": "Qatar",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT8": {
@@ -1484,7 +1484,7 @@
       "team": "Qatar",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT9": {
@@ -1514,7 +1514,7 @@
       "team": "Qatar",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT12": {
@@ -1574,7 +1574,7 @@
       "team": "Qatar",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT18": {
@@ -1774,7 +1774,7 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BIH18": {
@@ -1784,8 +1784,8 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "BIH19": {
       "section": "BIH",
