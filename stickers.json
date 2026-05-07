@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 85,
+    "collected": 96,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -6814,7 +6814,7 @@
       "team": "Senegal",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SEN2": {
@@ -6824,8 +6824,8 @@
       "team": "Senegal",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SEN3": {
       "section": "SEN",
@@ -6864,8 +6864,8 @@
       "team": "Senegal",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SEN7": {
       "section": "SEN",
@@ -6874,8 +6874,8 @@
       "team": "Senegal",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SEN8": {
       "section": "SEN",
@@ -6904,7 +6904,7 @@
       "team": "Senegal",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SEN11": {
@@ -6914,8 +6914,8 @@
       "team": "Senegal",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SEN12": {
       "section": "SEN",
@@ -6954,8 +6954,8 @@
       "team": "Senegal",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SEN16": {
       "section": "SEN",
@@ -6964,7 +6964,7 @@
       "team": "Senegal",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SEN17": {
@@ -6984,7 +6984,7 @@
       "team": "Senegal",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SEN19": {
@@ -6994,7 +6994,7 @@
       "team": "Senegal",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SEN20": {
@@ -7004,8 +7004,8 @@
       "team": "Senegal",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "NOR1": {
       "section": "NOR",
