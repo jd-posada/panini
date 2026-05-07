@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 123,
+    "collected": 132,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -1414,7 +1414,7 @@
       "team": "Qatar",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT2": {
@@ -1424,7 +1424,7 @@
       "team": "Qatar",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT3": {
@@ -1444,8 +1444,8 @@
       "team": "Qatar",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "QAT5": {
       "section": "QAT",
@@ -1454,7 +1454,7 @@
       "team": "Qatar",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT6": {
@@ -1464,7 +1464,7 @@
       "team": "Qatar",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT7": {
@@ -1494,7 +1494,7 @@
       "team": "Qatar",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT10": {
@@ -1504,7 +1504,7 @@
       "team": "Qatar",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT11": {
@@ -1554,8 +1554,8 @@
       "team": "Qatar",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "QAT16": {
       "section": "QAT",
@@ -1594,8 +1594,8 @@
       "team": "Qatar",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "QAT20": {
       "section": "QAT",
