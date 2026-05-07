@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 167,
+    "collected": 173,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -614,7 +614,7 @@
       "team": "Corea del Sur",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KOR2": {
@@ -654,8 +654,8 @@
       "team": "Corea del Sur",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "KOR6": {
       "section": "KOR",
@@ -664,7 +664,7 @@
       "team": "Corea del Sur",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KOR7": {
@@ -714,7 +714,7 @@
       "team": "Corea del Sur",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KOR12": {
@@ -764,7 +764,7 @@
       "team": "Corea del Sur",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KOR17": {
@@ -804,7 +804,7 @@
       "team": "Corea del Sur",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CZE1": {
