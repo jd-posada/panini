@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 346,
+    "collected": 360,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -5824,7 +5824,7 @@
       "team": "España",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ESP3": {
@@ -5834,7 +5834,7 @@
       "team": "España",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ESP4": {
@@ -5844,7 +5844,7 @@
       "team": "España",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ESP5": {
@@ -5854,8 +5854,8 @@
       "team": "España",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "ESP6": {
       "section": "ESP",
@@ -5874,7 +5874,7 @@
       "team": "España",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ESP8": {
@@ -5884,7 +5884,7 @@
       "team": "España",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ESP9": {
@@ -5894,8 +5894,8 @@
       "team": "España",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "ESP10": {
       "section": "ESP",
@@ -5914,7 +5914,7 @@
       "team": "España",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ESP12": {
@@ -5944,7 +5944,7 @@
       "team": "España",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ESP15": {
@@ -5964,7 +5964,7 @@
       "team": "España",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ESP17": {
@@ -5974,8 +5974,8 @@
       "team": "España",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "ESP18": {
       "section": "ESP",
@@ -5984,8 +5984,8 @@
       "team": "España",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "ESP19": {
       "section": "ESP",
@@ -5994,7 +5994,7 @@
       "team": "España",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ESP20": {
@@ -6004,7 +6004,7 @@
       "team": "España",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CPV1": {
