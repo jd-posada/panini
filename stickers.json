@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 422,
+    "collected": 438,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -6014,7 +6014,7 @@
       "team": "Cabo Verde",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CPV2": {
@@ -6024,7 +6024,7 @@
       "team": "Cabo Verde",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CPV3": {
@@ -6044,7 +6044,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CPV5": {
@@ -6054,8 +6054,8 @@
       "team": "Cabo Verde",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CPV6": {
       "section": "CPV",
@@ -6064,7 +6064,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CPV7": {
@@ -6084,7 +6084,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CPV9": {
@@ -6094,7 +6094,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CPV10": {
@@ -6104,8 +6104,8 @@
       "team": "Cabo Verde",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CPV11": {
       "section": "CPV",
@@ -6124,7 +6124,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CPV13": {
@@ -6134,7 +6134,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CPV14": {
@@ -6144,7 +6144,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CPV15": {
@@ -6154,7 +6154,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CPV16": {
@@ -6164,8 +6164,8 @@
       "team": "Cabo Verde",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 2
     },
     "CPV17": {
       "section": "CPV",
@@ -6174,8 +6174,8 @@
       "team": "Cabo Verde",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CPV18": {
       "section": "CPV",
@@ -6184,8 +6184,8 @@
       "team": "Cabo Verde",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CPV19": {
       "section": "CPV",
@@ -6194,7 +6194,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CPV20": {
