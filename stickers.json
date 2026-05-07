@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 74,
+    "collected": 85,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -1214,7 +1214,7 @@
       "team": "Suiza",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SUI2": {
@@ -1244,7 +1244,7 @@
       "team": "Suiza",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SUI5": {
@@ -1254,7 +1254,7 @@
       "team": "Suiza",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SUI6": {
@@ -1284,7 +1284,7 @@
       "team": "Suiza",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SUI9": {
@@ -1294,7 +1294,7 @@
       "team": "Suiza",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SUI10": {
@@ -1304,8 +1304,8 @@
       "team": "Suiza",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SUI11": {
       "section": "SUI",
@@ -1314,8 +1314,8 @@
       "team": "Suiza",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SUI12": {
       "section": "SUI",
@@ -1324,7 +1324,7 @@
       "team": "Suiza",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SUI13": {
@@ -1344,7 +1344,7 @@
       "team": "Suiza",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SUI15": {
@@ -1394,8 +1394,8 @@
       "team": "Suiza",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "SUI20": {
       "section": "SUI",
@@ -1404,8 +1404,8 @@
       "team": "Suiza",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "QAT1": {
       "section": "QAT",
