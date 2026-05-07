@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 303,
+    "collected": 316,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -9414,8 +9414,8 @@
       "team": "Ghana",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "GHA2": {
       "section": "GHA",
@@ -9424,8 +9424,8 @@
       "team": "Ghana",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "GHA3": {
       "section": "GHA",
@@ -9434,7 +9434,7 @@
       "team": "Ghana",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GHA4": {
@@ -9444,7 +9444,7 @@
       "team": "Ghana",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GHA5": {
@@ -9464,7 +9464,7 @@
       "team": "Ghana",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GHA7": {
@@ -9474,7 +9474,7 @@
       "team": "Ghana",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GHA8": {
@@ -9504,8 +9504,8 @@
       "team": "Ghana",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "GHA11": {
       "section": "GHA",
@@ -9514,7 +9514,7 @@
       "team": "Ghana",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GHA12": {
@@ -9524,7 +9524,7 @@
       "team": "Ghana",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GHA13": {
@@ -9534,7 +9534,7 @@
       "team": "Ghana",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GHA14": {
@@ -9554,7 +9554,7 @@
       "team": "Ghana",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GHA16": {
@@ -9564,7 +9564,7 @@
       "team": "Ghana",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GHA17": {
@@ -9594,8 +9594,8 @@
       "team": "Ghana",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "GHA20": {
       "section": "GHA",
