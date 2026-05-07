@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 524,
+    "collected": 536,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -3024,7 +3024,7 @@
       "team": "Australia",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS3": {
@@ -3034,7 +3034,7 @@
       "team": "Australia",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS4": {
@@ -3064,7 +3064,7 @@
       "team": "Australia",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS7": {
@@ -3084,7 +3084,7 @@
       "team": "Australia",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS9": {
@@ -3094,7 +3094,7 @@
       "team": "Australia",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS10": {
@@ -3104,7 +3104,7 @@
       "team": "Australia",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS11": {
@@ -3144,7 +3144,7 @@
       "team": "Australia",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS15": {
@@ -3154,7 +3154,7 @@
       "team": "Australia",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS16": {
@@ -3164,7 +3164,7 @@
       "team": "Australia",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS17": {
@@ -3174,7 +3174,7 @@
       "team": "Australia",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS18": {
@@ -3184,7 +3184,7 @@
       "team": "Australia",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS19": {
@@ -3194,7 +3194,7 @@
       "team": "Australia",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS20": {
