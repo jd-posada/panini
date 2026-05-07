@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 112,
+    "collected": 123,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -414,7 +414,7 @@
       "team": "Sudáfrica",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA2": {
@@ -424,7 +424,7 @@
       "team": "Sudáfrica",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA3": {
@@ -434,8 +434,8 @@
       "team": "Sudáfrica",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "RSA4": {
       "section": "RSA",
@@ -464,7 +464,7 @@
       "team": "Sudáfrica",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA7": {
@@ -484,8 +484,8 @@
       "team": "Sudáfrica",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "RSA9": {
       "section": "RSA",
@@ -504,7 +504,7 @@
       "team": "Sudáfrica",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA11": {
@@ -524,7 +524,7 @@
       "team": "Sudáfrica",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA13": {
@@ -554,8 +554,8 @@
       "team": "Sudáfrica",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 2
     },
     "RSA16": {
       "section": "RSA",
@@ -574,7 +574,7 @@
       "team": "Sudáfrica",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA18": {
@@ -594,7 +594,7 @@
       "team": "Sudáfrica",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA20": {
@@ -604,7 +604,7 @@
       "team": "Sudáfrica",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KOR1": {
