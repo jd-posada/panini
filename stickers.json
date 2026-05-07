@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 445,
+    "collected": 457,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -9214,8 +9214,8 @@
       "team": "Croacia",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CRO2": {
       "section": "CRO",
@@ -9224,7 +9224,7 @@
       "team": "Croacia",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CRO3": {
@@ -9234,7 +9234,7 @@
       "team": "Croacia",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CRO4": {
@@ -9244,7 +9244,7 @@
       "team": "Croacia",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CRO5": {
@@ -9264,7 +9264,7 @@
       "team": "Croacia",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CRO7": {
@@ -9274,7 +9274,7 @@
       "team": "Croacia",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CRO8": {
@@ -9284,7 +9284,7 @@
       "team": "Croacia",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CRO9": {
@@ -9304,8 +9304,8 @@
       "team": "Croacia",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CRO11": {
       "section": "CRO",
@@ -9314,7 +9314,7 @@
       "team": "Croacia",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CRO12": {
@@ -9334,7 +9334,7 @@
       "team": "Croacia",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CRO14": {
@@ -9364,7 +9364,7 @@
       "team": "Croacia",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CRO17": {
@@ -9394,7 +9394,7 @@
       "team": "Croacia",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CRO20": {
