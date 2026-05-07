@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 0,
+    "collected": 18,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -8614,7 +8614,7 @@
       "team": "Colombia",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL2": {
@@ -8624,7 +8624,7 @@
       "team": "Colombia",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL3": {
@@ -8634,8 +8634,8 @@
       "team": "Colombia",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "COL4": {
       "section": "COL",
@@ -8644,7 +8644,7 @@
       "team": "Colombia",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL5": {
@@ -8654,7 +8654,7 @@
       "team": "Colombia",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL6": {
@@ -8664,7 +8664,7 @@
       "team": "Colombia",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL7": {
@@ -8674,7 +8674,7 @@
       "team": "Colombia",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL8": {
@@ -8684,7 +8684,7 @@
       "team": "Colombia",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL9": {
@@ -8694,7 +8694,7 @@
       "team": "Colombia",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL10": {
@@ -8704,7 +8704,7 @@
       "team": "Colombia",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL11": {
@@ -8714,8 +8714,8 @@
       "team": "Colombia",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "COL12": {
       "section": "COL",
@@ -8734,7 +8734,7 @@
       "team": "Colombia",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL14": {
@@ -8744,7 +8744,7 @@
       "team": "Colombia",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL15": {
@@ -8754,7 +8754,7 @@
       "team": "Colombia",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL16": {
@@ -8764,8 +8764,8 @@
       "team": "Colombia",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "COL17": {
       "section": "COL",
@@ -8784,7 +8784,7 @@
       "team": "Colombia",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL19": {
@@ -8794,7 +8794,7 @@
       "team": "Colombia",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL20": {
@@ -8804,7 +8804,7 @@
       "team": "Colombia",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COD1": {
