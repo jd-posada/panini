@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 457,
+    "collected": 471,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -3624,7 +3624,7 @@
       "team": "Curaçao",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CUW3": {
@@ -3644,7 +3644,7 @@
       "team": "Curaçao",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CUW5": {
@@ -3654,7 +3654,7 @@
       "team": "Curaçao",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CUW6": {
@@ -3664,7 +3664,7 @@
       "team": "Curaçao",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CUW7": {
@@ -3674,7 +3674,7 @@
       "team": "Curaçao",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CUW8": {
@@ -3684,7 +3684,7 @@
       "team": "Curaçao",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CUW9": {
@@ -3694,8 +3694,8 @@
       "team": "Curaçao",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CUW10": {
       "section": "CUW",
@@ -3714,7 +3714,7 @@
       "team": "Curaçao",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CUW12": {
@@ -3724,7 +3724,7 @@
       "team": "Curaçao",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CUW13": {
@@ -3744,7 +3744,7 @@
       "team": "Curaçao",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CUW15": {
@@ -3764,7 +3764,7 @@
       "team": "Curaçao",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CUW17": {
@@ -3774,7 +3774,7 @@
       "team": "Curaçao",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CUW18": {
@@ -3784,8 +3784,8 @@
       "team": "Curaçao",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CUW19": {
       "section": "CUW",
@@ -3804,7 +3804,7 @@
       "team": "Curaçao",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CIV1": {
