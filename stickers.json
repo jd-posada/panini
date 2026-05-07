@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 316,
+    "collected": 330,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -3414,7 +3414,7 @@
       "team": "Alemania",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER2": {
@@ -3434,7 +3434,7 @@
       "team": "Alemania",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER4": {
@@ -3444,7 +3444,7 @@
       "team": "Alemania",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER5": {
@@ -3454,7 +3454,7 @@
       "team": "Alemania",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER6": {
@@ -3474,7 +3474,7 @@
       "team": "Alemania",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER8": {
@@ -3484,7 +3484,7 @@
       "team": "Alemania",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER9": {
@@ -3494,8 +3494,8 @@
       "team": "Alemania",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "GER10": {
       "section": "GER",
@@ -3514,7 +3514,7 @@
       "team": "Alemania",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER12": {
@@ -3524,7 +3524,7 @@
       "team": "Alemania",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER13": {
@@ -3534,7 +3534,7 @@
       "team": "Alemania",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER14": {
@@ -3544,7 +3544,7 @@
       "team": "Alemania",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER15": {
@@ -3564,7 +3564,7 @@
       "team": "Alemania",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER17": {
@@ -3574,7 +3574,7 @@
       "team": "Alemania",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER18": {
@@ -3584,7 +3584,7 @@
       "team": "Alemania",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER19": {
