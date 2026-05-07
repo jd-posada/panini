@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 577,
+    "collected": 585,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -104,7 +104,7 @@
       "team": "Especiales",
       "name": "Introducción 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FWC11": {
@@ -234,7 +234,7 @@
       "team": "México",
       "name": "Johan Vásquez",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX4": {
@@ -264,7 +264,7 @@
       "team": "México",
       "name": "Jesús Gallardo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX7": {
@@ -444,7 +444,7 @@
       "team": "Sudáfrica",
       "name": "Aubrey Modiba",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA5": {
@@ -454,7 +454,7 @@
       "team": "Sudáfrica",
       "name": "Samukele Kabini",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA6": {
@@ -474,7 +474,7 @@
       "team": "Sudáfrica",
       "name": "Khulumani Ndamane",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA8": {
@@ -494,7 +494,7 @@
       "team": "Sudáfrica",
       "name": "Khuliso Mudau",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA10": {
@@ -514,7 +514,7 @@
       "team": "Sudáfrica",
       "name": "Teboho Mokoena",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA12": {
