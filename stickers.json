@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 375,
+    "collected": 381,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -5234,7 +5234,7 @@
       "team": "Egipto",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "EGY4": {
@@ -5284,7 +5284,7 @@
       "team": "Egipto",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "EGY9": {
@@ -5314,7 +5314,7 @@
       "team": "Egipto",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "EGY12": {
@@ -5344,7 +5344,7 @@
       "team": "Egipto",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "EGY15": {
@@ -5354,7 +5354,7 @@
       "team": "Egipto",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "EGY16": {
@@ -5374,7 +5374,7 @@
       "team": "Egipto",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "EGY18": {
