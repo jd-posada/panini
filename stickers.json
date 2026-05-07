@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 3,
+    "collected": 0,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -134,7 +134,7 @@
       "team": "Especiales",
       "name": "Introducción 5",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "FWC14": {
@@ -2734,7 +2734,7 @@
       "team": "Estados Unidos",
       "name": "Jugador 11",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "USA14": {
@@ -4764,8 +4764,8 @@
       "team": "Túnez",
       "name": "Jugador 14",
       "type": "base",
-      "owned": true,
-      "duplicates": 1
+      "owned": false,
+      "duplicates": 0
     },
     "TUN17": {
       "section": "TUN",
