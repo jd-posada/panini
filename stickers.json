@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 239,
+    "collected": 244,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -2824,7 +2824,7 @@
       "team": "Paraguay",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR3": {
@@ -2854,8 +2854,8 @@
       "team": "Paraguay",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "PAR6": {
       "section": "PAR",
@@ -2894,7 +2894,7 @@
       "team": "Paraguay",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR10": {
@@ -2944,8 +2944,8 @@
       "team": "Paraguay",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "PAR15": {
       "section": "PAR",
@@ -2984,7 +2984,7 @@
       "team": "Paraguay",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR19": {
