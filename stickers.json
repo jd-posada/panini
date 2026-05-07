@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 244,
+    "collected": 259,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -8224,7 +8224,7 @@
       "team": "Portugal",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "POR3": {
@@ -8234,7 +8234,7 @@
       "team": "Portugal",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "POR4": {
@@ -8264,8 +8264,8 @@
       "team": "Portugal",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "POR7": {
       "section": "POR",
@@ -8274,7 +8274,7 @@
       "team": "Portugal",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "POR8": {
@@ -8284,8 +8284,8 @@
       "team": "Portugal",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "POR9": {
       "section": "POR",
@@ -8294,7 +8294,7 @@
       "team": "Portugal",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "POR10": {
@@ -8304,7 +8304,7 @@
       "team": "Portugal",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "POR11": {
@@ -8324,7 +8324,7 @@
       "team": "Portugal",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "POR13": {
@@ -8344,7 +8344,7 @@
       "team": "Portugal",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "POR15": {
@@ -8354,8 +8354,8 @@
       "team": "Portugal",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "POR16": {
       "section": "POR",
@@ -8364,7 +8364,7 @@
       "team": "Portugal",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "POR17": {
@@ -8374,7 +8374,7 @@
       "team": "Portugal",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "POR18": {
@@ -8384,7 +8384,7 @@
       "team": "Portugal",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "POR19": {
@@ -8394,8 +8394,8 @@
       "team": "Portugal",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "POR20": {
       "section": "POR",
@@ -8404,7 +8404,7 @@
       "team": "Portugal",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "UZB1": {
