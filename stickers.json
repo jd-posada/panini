@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 216,
+    "collected": 228,
     "lastUpdated": "2026-05-06",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -5624,7 +5624,7 @@
       "team": "Nueva Zelanda",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NZL3": {
@@ -5634,7 +5634,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NZL4": {
@@ -5674,7 +5674,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NZL8": {
@@ -5684,7 +5684,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NZL9": {
@@ -5704,7 +5704,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NZL11": {
@@ -5714,7 +5714,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NZL12": {
@@ -5724,7 +5724,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NZL13": {
@@ -5754,7 +5754,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NZL16": {
@@ -5764,7 +5764,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NZL17": {
@@ -5774,7 +5774,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NZL18": {
@@ -5794,7 +5794,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NZL20": {
@@ -5804,7 +5804,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ESP1": {
