@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 393,
+    "collected": 407,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -1044,7 +1044,7 @@
       "team": "Canadá",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN5": {
@@ -1064,8 +1064,8 @@
       "team": "Canadá",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CAN7": {
       "section": "CAN",
@@ -1074,7 +1074,7 @@
       "team": "Canadá",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN8": {
@@ -1084,7 +1084,7 @@
       "team": "Canadá",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN9": {
@@ -1094,7 +1094,7 @@
       "team": "Canadá",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN10": {
@@ -1114,7 +1114,7 @@
       "team": "Canadá",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN12": {
@@ -1124,7 +1124,7 @@
       "team": "Canadá",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN13": {
@@ -1144,7 +1144,7 @@
       "team": "Canadá",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN15": {
@@ -1154,8 +1154,8 @@
       "team": "Canadá",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CAN16": {
       "section": "CAN",
@@ -1164,7 +1164,7 @@
       "team": "Canadá",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN17": {
@@ -1174,7 +1174,7 @@
       "team": "Canadá",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN18": {
@@ -1184,7 +1184,7 @@
       "team": "Canadá",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CAN19": {
@@ -1194,8 +1194,8 @@
       "team": "Canadá",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CAN20": {
       "section": "CAN",
@@ -1204,7 +1204,7 @@
       "team": "Canadá",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SUI1": {
