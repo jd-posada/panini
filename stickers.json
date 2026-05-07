@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 292,
+    "collected": 303,
     "lastUpdated": "2026-05-07",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -2214,8 +2214,8 @@
       "team": "Haití",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "HAI2": {
       "section": "HAI",
@@ -2234,7 +2234,7 @@
       "team": "Haití",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "HAI4": {
@@ -2244,8 +2244,8 @@
       "team": "Haití",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "HAI5": {
       "section": "HAI",
@@ -2254,8 +2254,8 @@
       "team": "Haití",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "HAI6": {
       "section": "HAI",
@@ -2264,7 +2264,7 @@
       "team": "Haití",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "HAI7": {
@@ -2284,7 +2284,7 @@
       "team": "Haití",
       "name": "Jugador 6",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "HAI9": {
@@ -2324,8 +2324,8 @@
       "team": "Haití",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "HAI13": {
       "section": "HAI",
@@ -2334,8 +2334,8 @@
       "team": "Haití",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "HAI14": {
       "section": "HAI",
@@ -2344,8 +2344,8 @@
       "team": "Haití",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "HAI15": {
       "section": "HAI",
@@ -2354,7 +2354,7 @@
       "team": "Haití",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "HAI16": {
@@ -2374,8 +2374,8 @@
       "team": "Haití",
       "name": "Jugador 15",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "HAI18": {
       "section": "HAI",
