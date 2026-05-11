@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 776,
+    "collected": 777,
     "lastUpdated": "2026-05-11",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -3255,7 +3255,7 @@
       "name": "Abdülkerim Bardakcı",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "TUR6": {
       "section": "TUR",
@@ -3295,7 +3295,7 @@
       "name": "Kaan Ayhan",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "TUR10": {
       "section": "TUR",
@@ -3375,7 +3375,7 @@
       "name": "Can Uzun",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "TUR18": {
       "section": "TUR",
@@ -6885,7 +6885,7 @@
       "name": "Kalidou Koulibaly",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 2
     },
     "SEN9": {
       "section": "SEN",
@@ -6975,7 +6975,7 @@
       "name": "Boulaye Dia",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "SEN18": {
       "section": "SEN",
@@ -7914,7 +7914,7 @@
       "team": "Austria",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUT12": {
