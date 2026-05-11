@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 777,
+    "collected": 778,
     "lastUpdated": "2026-05-11",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -485,7 +485,7 @@
       "name": "Siyabonga Ngezana",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "RSA9": {
       "section": "RSA",
@@ -555,7 +555,7 @@
       "name": "Yaya Sithole",
       "type": "base",
       "owned": true,
-      "duplicates": 2
+      "duplicates": 1
     },
     "RSA16": {
       "section": "RSA",
@@ -835,7 +835,7 @@
       "name": "Jindřich Staněk",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "CZE4": {
       "section": "CZE",
@@ -855,7 +855,7 @@
       "name": "Vladimír Coufal",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CZE6": {
       "section": "CZE",
@@ -905,7 +905,7 @@
       "name": "Lukáš Provod",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "CZE11": {
       "section": "CZE",
@@ -965,7 +965,7 @@
       "name": "Vasil Kušej",
       "type": "base",
       "owned": true,
-      "duplicates": 2
+      "duplicates": 0
     },
     "CZE17": {
       "section": "CZE",
@@ -985,7 +985,7 @@
       "name": "Václav Černý",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CZE19": {
       "section": "CZE",
@@ -1005,7 +1005,7 @@
       "name": "Patrik Schick",
       "type": "base",
       "owned": true,
-      "duplicates": 2
+      "duplicates": 0
     },
     "CAN1": {
       "section": "CAN",
@@ -1445,7 +1445,7 @@
       "name": "Jugador 2",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "QAT5": {
       "section": "QAT",
@@ -1555,7 +1555,7 @@
       "name": "Jugador 13",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "QAT16": {
       "section": "QAT",
@@ -1715,7 +1715,7 @@
       "name": "Jugador 9",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "BIH12": {
       "section": "BIH",
@@ -1765,7 +1765,7 @@
       "name": "Jugador 14",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "BIH17": {
       "section": "BIH",
@@ -2245,7 +2245,7 @@
       "name": "Jugador 2",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "HAI5": {
       "section": "HAI",
@@ -2255,7 +2255,7 @@
       "name": "Jugador 3",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "HAI6": {
       "section": "HAI",
@@ -2325,7 +2325,7 @@
       "name": "Jugador 10",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "HAI13": {
       "section": "HAI",
@@ -2335,7 +2335,7 @@
       "name": "Jugador 11",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "HAI14": {
       "section": "HAI",
@@ -2375,7 +2375,7 @@
       "name": "Jugador 15",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "HAI18": {
       "section": "HAI",
@@ -3255,7 +3255,7 @@
       "name": "Abdülkerim Bardakcı",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "TUR6": {
       "section": "TUR",
@@ -3295,7 +3295,7 @@
       "name": "Kaan Ayhan",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "TUR10": {
       "section": "TUR",
@@ -3375,7 +3375,7 @@
       "name": "Can Uzun",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "TUR18": {
       "section": "TUR",
@@ -3695,7 +3695,7 @@
       "name": "Jugador 7",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "CUW10": {
       "section": "CUW",
@@ -3785,7 +3785,7 @@
       "name": "Jugador 16",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "CUW19": {
       "section": "CUW",
@@ -3845,7 +3845,7 @@
       "name": "Jugador 2",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CIV5": {
       "section": "CIV",
@@ -3854,8 +3854,8 @@
       "team": "Costa de Marfil",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "CIV6": {
       "section": "CIV",
@@ -3905,7 +3905,7 @@
       "name": "Jugador 8",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CIV11": {
       "section": "CIV",
@@ -3985,7 +3985,7 @@
       "name": "Jugador 16",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "CIV19": {
       "section": "CIV",
@@ -5025,7 +5025,7 @@
       "name": "Foto Equipo",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "BEL3": {
       "section": "BEL",
@@ -6045,7 +6045,7 @@
       "name": "Jugador 2",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "CPV5": {
       "section": "CPV",
@@ -6055,7 +6055,7 @@
       "name": "Jugador 3",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "CPV6": {
       "section": "CPV",
@@ -6105,7 +6105,7 @@
       "name": "Jugador 8",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "CPV11": {
       "section": "CPV",
@@ -6885,7 +6885,7 @@
       "name": "Kalidou Koulibaly",
       "type": "base",
       "owned": true,
-      "duplicates": 2
+      "duplicates": 0
     },
     "SEN9": {
       "section": "SEN",
@@ -6955,7 +6955,7 @@
       "name": "Sadio Mané",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "SEN16": {
       "section": "SEN",
@@ -6975,7 +6975,7 @@
       "name": "Boulaye Dia",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "SEN18": {
       "section": "SEN",
@@ -7145,7 +7145,7 @@
       "name": "Jugador 12",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "NOR15": {
       "section": "NOR",
@@ -7325,7 +7325,7 @@
       "name": "Jugador 10",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "IRQ13": {
       "section": "IRQ",
@@ -8295,7 +8295,7 @@
       "name": "Bernardo Silva",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "POR10": {
       "section": "POR",
@@ -8305,7 +8305,7 @@
       "name": "Bruno Fernandes",
       "type": "base",
       "owned": true,
-      "duplicates": 2
+      "duplicates": 0
     },
     "POR11": {
       "section": "POR",
@@ -8395,7 +8395,7 @@
       "name": "Pedro Neto",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "POR20": {
       "section": "POR",
@@ -8505,7 +8505,7 @@
       "name": "Jugador 8",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "UZB11": {
       "section": "UZB",
@@ -8605,7 +8605,7 @@
       "name": "Jugador 18",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "COL1": {
       "section": "COL",
@@ -8845,7 +8845,7 @@
       "name": "Jugador 2",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "COD5": {
       "section": "COD",
@@ -8895,7 +8895,7 @@
       "name": "Jugador 7",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "COD10": {
       "section": "COD",
@@ -8915,7 +8915,7 @@
       "name": "Jugador 9",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "COD12": {
       "section": "COD",
@@ -8995,7 +8995,7 @@
       "name": "Jugador 17",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "COD20": {
       "section": "COD",
@@ -9055,7 +9055,7 @@
       "name": "Ezri Konsa",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "ENG6": {
       "section": "ENG",
@@ -9065,7 +9065,7 @@
       "name": "Trent Alexander-Arnold",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "ENG7": {
       "section": "ENG",
@@ -9425,7 +9425,7 @@
       "name": "Foto Equipo",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "GHA3": {
       "section": "GHA",
@@ -9485,7 +9485,7 @@
       "name": "Jugador 6",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "GHA9": {
       "section": "GHA",
@@ -9505,7 +9505,7 @@
       "name": "Jugador 8",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "GHA11": {
       "section": "GHA",
@@ -9515,7 +9515,7 @@
       "name": "Jugador 9",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "GHA12": {
       "section": "GHA",
@@ -9555,7 +9555,7 @@
       "name": "Jugador 13",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "GHA16": {
       "section": "GHA",
@@ -9565,7 +9565,7 @@
       "name": "Jugador 14",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "GHA17": {
       "section": "GHA",
@@ -9635,7 +9635,7 @@
       "name": "Jugador 1",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "PAN4": {
       "section": "PAN",
@@ -9765,7 +9765,7 @@
       "name": "Jugador 14",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 2
     },
     "PAN17": {
       "section": "PAN",
@@ -9805,7 +9805,7 @@
       "name": "Jugador 18",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 3
     }
   }
 }
