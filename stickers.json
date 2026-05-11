@@ -7105,7 +7105,7 @@
       "name": "Jugador 8",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "NOR11": {
       "section": "NOR",
@@ -7145,7 +7145,7 @@
       "name": "Jugador 12",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "NOR15": {
       "section": "NOR",
@@ -7155,7 +7155,7 @@
       "name": "Jugador 13",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "NOR16": {
       "section": "NOR",
@@ -7185,7 +7185,7 @@
       "name": "Jugador 16",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "NOR19": {
       "section": "NOR",
@@ -8515,7 +8515,7 @@
       "name": "Jugador 9",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "UZB12": {
       "section": "UZB",
@@ -8555,7 +8555,7 @@
       "name": "Jugador 13",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "UZB16": {
       "section": "UZB",
@@ -8885,7 +8885,7 @@
       "name": "Jugador 6",
       "type": "base",
       "owned": true,
-      "duplicates": 1
+      "duplicates": 0
     },
     "COD9": {
       "section": "COD",
