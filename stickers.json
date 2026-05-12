@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 778,
+    "collected": 764,
     "lastUpdated": "2026-05-11",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -334,7 +334,7 @@
       "team": "México",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "MEX14": {
@@ -1114,7 +1114,7 @@
       "team": "Canadá",
       "name": "Ismaël Koné",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "CAN12": {
@@ -2644,7 +2644,7 @@
       "team": "Estados Unidos",
       "name": "Jugador 2",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "USA5": {
@@ -2744,7 +2744,7 @@
       "team": "Estados Unidos",
       "name": "Jugador 12",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "USA15": {
@@ -3384,7 +3384,7 @@
       "team": "Türkiye",
       "name": "Barış Alper Yılmaz",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "TUR19": {
@@ -3684,7 +3684,7 @@
       "team": "Curaçao",
       "name": "Jugador 6",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "CUW9": {
@@ -3724,7 +3724,7 @@
       "team": "Curaçao",
       "name": "Jugador 10",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "CUW13": {
@@ -4954,7 +4954,7 @@
       "team": "Suecia",
       "name": "Jugador 13",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "SWE16": {
@@ -7254,7 +7254,7 @@
       "team": "Irak",
       "name": "Jugador 3",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "IRQ6": {
@@ -7294,7 +7294,7 @@
       "team": "Irak",
       "name": "Jugador 7",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "IRQ10": {
@@ -8554,7 +8554,7 @@
       "team": "Uzbekistán",
       "name": "Jugador 13",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "UZB16": {
@@ -8654,7 +8654,7 @@
       "team": "Colombia",
       "name": "Yerry Mina",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "COL6": {
@@ -8694,7 +8694,7 @@
       "team": "Colombia",
       "name": "Santiago Arias",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "COL10": {
@@ -9104,7 +9104,7 @@
       "team": "Inglaterra",
       "name": "Declan Rice",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "ENG11": {
