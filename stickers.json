@@ -2,8 +2,8 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 764,
-    "lastUpdated": "2026-05-11",
+    "collected": 778,
+    "lastUpdated": "2026-05-12",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
   "stickers": {
@@ -64,7 +64,7 @@
       "team": "Especiales",
       "name": "Canadá - Sede",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FWC7": {
@@ -534,7 +534,7 @@
       "team": "Sudáfrica",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "RSA14": {
@@ -1224,7 +1224,7 @@
       "team": "Suiza",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SUI3": {
@@ -1325,7 +1325,7 @@
       "name": "Jugador 10",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "SUI13": {
       "section": "SUI",
@@ -1534,7 +1534,7 @@
       "team": "Qatar",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT14": {
@@ -2314,7 +2314,7 @@
       "team": "Haití",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "HAI12": {
@@ -2385,7 +2385,7 @@
       "name": "Jugador 16",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "HAI19": {
       "section": "HAI",
@@ -3124,7 +3124,7 @@
       "team": "Australia",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS13": {
@@ -4724,7 +4724,7 @@
       "team": "Túnez",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "TUN13": {
@@ -5455,7 +5455,7 @@
       "name": "Jugador 3",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "IRN6": {
       "section": "IRN",
@@ -5495,7 +5495,7 @@
       "name": "Jugador 7",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "IRN10": {
       "section": "IRN",
@@ -6854,7 +6854,7 @@
       "team": "Senegal",
       "name": "Abdoulaye Seck",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SEN6": {
@@ -7134,7 +7134,7 @@
       "team": "Noruega",
       "name": "Jugador 11",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NOR14": {
@@ -7964,7 +7964,7 @@
       "team": "Austria",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUT17": {
@@ -8004,7 +8004,7 @@
       "team": "Austria",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "JOR1": {
@@ -8705,7 +8705,7 @@
       "name": "Jefferson Lerma",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "COL11": {
       "section": "COL",
@@ -8724,7 +8724,7 @@
       "team": "Colombia",
       "name": "Richard Ríos",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL13": {
@@ -8745,7 +8745,7 @@
       "name": "James Rodríguez",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "COL15": {
       "section": "COL",
@@ -8864,7 +8864,7 @@
       "team": "R.D. Congo",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COD7": {
@@ -8985,7 +8985,7 @@
       "name": "Jugador 16",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "COD19": {
       "section": "COD",
@@ -9134,7 +9134,7 @@
       "team": "Inglaterra",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ENG14": {
