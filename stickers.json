@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 789,
+    "collected": 791,
     "lastUpdated": "2026-05-14",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -435,7 +435,7 @@
       "name": "Sipho Chaine",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 2
     },
     "RSA4": {
       "section": "RSA",
@@ -544,8 +544,8 @@
       "team": "Sudáfrica",
       "name": "Bathusi Aubaas",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "RSA15": {
       "section": "RSA",
@@ -555,7 +555,7 @@
       "name": "Yaya Sithole",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "RSA16": {
       "section": "RSA",
@@ -565,7 +565,7 @@
       "name": "Sipho Mbule",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 2
     },
     "RSA17": {
       "section": "RSA",
@@ -605,7 +605,7 @@
       "name": "Oswin Appollis",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 3
     },
     "KOR1": {
       "section": "KOR",
@@ -855,7 +855,7 @@
       "name": "Vladimír Coufal",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CZE6": {
       "section": "CZE",
@@ -985,7 +985,7 @@
       "name": "Václav Černý",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CZE19": {
       "section": "CZE",
@@ -1215,7 +1215,7 @@
       "name": "Escudo",
       "type": "foil",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "SUI2": {
       "section": "SUI",
@@ -1325,7 +1325,7 @@
       "name": "Jugador 10",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "SUI13": {
       "section": "SUI",
@@ -1764,8 +1764,8 @@
       "team": "Bosnia y Herzegovina",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
-      "duplicates": 0
+      "owned": true,
+      "duplicates": 1
     },
     "BIH17": {
       "section": "BIH",
@@ -2455,7 +2455,7 @@
       "name": "Jugador 3",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "SCO6": {
       "section": "SCO",
@@ -3215,7 +3215,7 @@
       "name": "Escudo",
       "type": "foil",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "TUR2": {
       "section": "TUR",
@@ -3845,7 +3845,7 @@
       "name": "Jugador 2",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CIV5": {
       "section": "CIV",
@@ -3905,7 +3905,7 @@
       "name": "Jugador 8",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CIV11": {
       "section": "CIV",
@@ -4625,7 +4625,7 @@
       "name": "Foto Equipo",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "TUN3": {
       "section": "TUN",
@@ -4675,7 +4675,7 @@
       "name": "Jugador 5",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "TUN8": {
       "section": "TUN",
@@ -5325,7 +5325,7 @@
       "name": "Jugador 10",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "EGY13": {
       "section": "EGY",
@@ -5345,7 +5345,7 @@
       "name": "Jugador 12",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "EGY15": {
       "section": "EGY",
@@ -6055,7 +6055,7 @@
       "name": "Jugador 3",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CPV6": {
       "section": "CPV",
@@ -6165,7 +6165,7 @@
       "name": "Jugador 14",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CPV17": {
       "section": "CPV",
@@ -6175,7 +6175,7 @@
       "name": "Jugador 15",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CPV18": {
       "section": "CPV",
@@ -6185,7 +6185,7 @@
       "name": "Jugador 16",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CPV19": {
       "section": "CPV",
@@ -7065,7 +7065,7 @@
       "name": "Jugador 4",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "NOR7": {
       "section": "NOR",
@@ -7355,7 +7355,7 @@
       "name": "Jugador 13",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "IRQ16": {
       "section": "IRQ",
@@ -7445,7 +7445,7 @@
       "name": "Cristian Romero",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "ARG5": {
       "section": "ARG",
@@ -7975,7 +7975,7 @@
       "name": "Jugador 15",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "AUT18": {
       "section": "AUT",
@@ -8265,7 +8265,7 @@
       "name": "Diogo Dalot",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 2
     },
     "POR7": {
       "section": "POR",
@@ -8275,7 +8275,7 @@
       "name": "Nuno Mendes",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "POR8": {
       "section": "POR",
@@ -8315,7 +8315,7 @@
       "name": "Rúben Neves",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "POR12": {
       "section": "POR",
