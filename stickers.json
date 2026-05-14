@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 790,
+    "collected": 789,
     "lastUpdated": "2026-05-14",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -3334,7 +3334,7 @@
       "team": "Türkiye",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "TUR14": {
