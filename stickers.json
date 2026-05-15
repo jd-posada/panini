@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 819,
+    "collected": 783,
     "lastUpdated": "2026-05-15",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -7474,7 +7474,7 @@
       "team": "Argentina",
       "name": "Leonardo Balerdi",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "ARG8": {
@@ -7504,7 +7504,7 @@
       "team": "Argentina",
       "name": "Rodrigo De Paul",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "ARG11": {
@@ -7654,7 +7654,7 @@
       "team": "Argelia",
       "name": "Jugador 3",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "ALG6": {
@@ -7674,7 +7674,7 @@
       "team": "Argelia",
       "name": "Jugador 5",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "ALG8": {
@@ -7764,7 +7764,7 @@
       "team": "Argelia",
       "name": "Jugador 14",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "ALG17": {
@@ -7804,7 +7804,7 @@
       "team": "Argelia",
       "name": "Jugador 18",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "AUT1": {
@@ -7854,7 +7854,7 @@
       "team": "Austria",
       "name": "Jugador 3",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "AUT6": {
@@ -7864,7 +7864,7 @@
       "team": "Austria",
       "name": "Jugador 4",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "AUT7": {
@@ -7894,7 +7894,7 @@
       "team": "Austria",
       "name": "Jugador 7",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "AUT10": {
@@ -7934,7 +7934,7 @@
       "team": "Austria",
       "name": "Jugador 11",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "AUT14": {
@@ -8014,7 +8014,7 @@
       "team": "Jordania",
       "name": "Escudo",
       "type": "foil",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "JOR2": {
@@ -8064,7 +8064,7 @@
       "team": "Jordania",
       "name": "Jugador 4",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "JOR7": {
@@ -8114,7 +8114,7 @@
       "team": "Jordania",
       "name": "Jugador 9",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "JOR12": {
@@ -8214,7 +8214,7 @@
       "team": "Portugal",
       "name": "Escudo",
       "type": "foil",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "POR2": {
@@ -8244,7 +8244,7 @@
       "team": "Portugal",
       "name": "Rúben Dias",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "POR5": {
@@ -8254,7 +8254,7 @@
       "team": "Portugal",
       "name": "João Cancelo",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "POR6": {
@@ -8334,7 +8334,7 @@
       "team": "Portugal",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "POR14": {
@@ -8414,7 +8414,7 @@
       "team": "Uzbekistán",
       "name": "Escudo",
       "type": "foil",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "UZB2": {
@@ -8454,7 +8454,7 @@
       "team": "Uzbekistán",
       "name": "Jugador 3",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "UZB6": {
@@ -8474,7 +8474,7 @@
       "team": "Uzbekistán",
       "name": "Jugador 5",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "UZB8": {
@@ -8524,7 +8524,7 @@
       "team": "Uzbekistán",
       "name": "Jugador 10",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "UZB13": {
@@ -8554,7 +8554,7 @@
       "team": "Uzbekistán",
       "name": "Jugador 13",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "UZB16": {
@@ -8564,7 +8564,7 @@
       "team": "Uzbekistán",
       "name": "Jugador 14",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "UZB17": {
@@ -8574,7 +8574,7 @@
       "team": "Uzbekistán",
       "name": "Jugador 15",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "UZB18": {
@@ -8694,7 +8694,7 @@
       "team": "Colombia",
       "name": "Santiago Arias",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "COL10": {
@@ -8774,7 +8774,7 @@
       "team": "Colombia",
       "name": "Jhon Arias",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "COL18": {
@@ -8814,7 +8814,7 @@
       "team": "R.D. Congo",
       "name": "Escudo",
       "type": "foil",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "COD2": {
@@ -8904,7 +8904,7 @@
       "team": "R.D. Congo",
       "name": "Jugador 8",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "COD11": {
@@ -9104,7 +9104,7 @@
       "team": "Inglaterra",
       "name": "Declan Rice",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "ENG11": {
@@ -9254,7 +9254,7 @@
       "team": "Croacia",
       "name": "Jugador 3",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "CRO6": {
@@ -9294,7 +9294,7 @@
       "team": "Croacia",
       "name": "Jugador 7",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "CRO10": {
@@ -9344,7 +9344,7 @@
       "team": "Croacia",
       "name": "Jugador 12",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "CRO15": {
@@ -9374,7 +9374,7 @@
       "team": "Croacia",
       "name": "Jugador 15",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "CRO18": {
@@ -9384,7 +9384,7 @@
       "team": "Croacia",
       "name": "Jugador 16",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "CRO19": {
@@ -9604,7 +9604,7 @@
       "team": "Ghana",
       "name": "Jugador 18",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "PAN1": {
@@ -9784,7 +9784,7 @@
       "team": "Panamá",
       "name": "Jugador 16",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "PAN19": {
