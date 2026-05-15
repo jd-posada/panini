@@ -435,7 +435,7 @@
       "name": "Sipho Chaine",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "RSA4": {
       "section": "RSA",
@@ -1215,7 +1215,7 @@
       "name": "Escudo",
       "type": "foil",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "SUI2": {
       "section": "SUI",
@@ -1745,7 +1745,7 @@
       "name": "Jugador 12",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "BIH15": {
       "section": "BIH",
@@ -1765,7 +1765,7 @@
       "name": "Jugador 14",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "BIH17": {
       "section": "BIH",
@@ -1785,7 +1785,7 @@
       "name": "Jugador 16",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "BIH19": {
       "section": "BIH",
@@ -2455,7 +2455,7 @@
       "name": "Jugador 3",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "SCO6": {
       "section": "SCO",
@@ -4345,7 +4345,7 @@
       "name": "Frenkie de Jong",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "NED15": {
       "section": "NED",
@@ -6165,7 +6165,7 @@
       "name": "Jugador 14",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CPV17": {
       "section": "CPV",
@@ -6175,7 +6175,7 @@
       "name": "Jugador 15",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "CPV18": {
       "section": "CPV",
@@ -6835,7 +6835,7 @@
       "name": "Yehvann Diouf",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "SEN4": {
       "section": "SEN",
@@ -7355,7 +7355,7 @@
       "name": "Jugador 13",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "IRQ16": {
       "section": "IRQ",
@@ -7445,7 +7445,7 @@
       "name": "Cristian Romero",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "ARG5": {
       "section": "ARG",
@@ -7985,7 +7985,7 @@
       "name": "Jugador 16",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "AUT19": {
       "section": "AUT",
@@ -8265,7 +8265,7 @@
       "name": "Diogo Dalot",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 2
     },
     "POR7": {
       "section": "POR",
@@ -8315,7 +8315,7 @@
       "name": "Rúben Neves",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 1
     },
     "POR12": {
       "section": "POR",
@@ -9805,7 +9805,7 @@
       "name": "Jugador 18",
       "type": "base",
       "owned": true,
-      "duplicates": 0
+      "duplicates": 2
     }
   }
 }
