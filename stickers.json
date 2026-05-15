@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 878,
+    "collected": 819,
     "lastUpdated": "2026-05-15",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -4224,7 +4224,7 @@
       "team": "Países Bajos",
       "name": "Bart Verbruggen",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "NED3": {
@@ -4244,7 +4244,7 @@
       "team": "Países Bajos",
       "name": "Micky van de Ven",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "NED5": {
@@ -4264,7 +4264,7 @@
       "team": "Países Bajos",
       "name": "Denzel Dumfries",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "NED7": {
@@ -4404,7 +4404,7 @@
       "team": "Países Bajos",
       "name": "Cody Gakpo",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "JPN1": {
@@ -4544,7 +4544,7 @@
       "team": "Japón",
       "name": "Ritsu Doan",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "JPN15": {
@@ -4614,7 +4614,7 @@
       "team": "Túnez",
       "name": "Escudo",
       "type": "foil",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "TUN2": {
@@ -4644,7 +4644,7 @@
       "team": "Túnez",
       "name": "Jugador 2",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "TUN5": {
@@ -4694,7 +4694,7 @@
       "team": "Túnez",
       "name": "Jugador 7",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "TUN10": {
@@ -4704,7 +4704,7 @@
       "team": "Túnez",
       "name": "Jugador 8",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "TUN11": {
@@ -4794,7 +4794,7 @@
       "team": "Túnez",
       "name": "Jugador 17",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "TUN20": {
@@ -4924,7 +4924,7 @@
       "team": "Suecia",
       "name": "Jugador 10",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "SWE13": {
@@ -4954,7 +4954,7 @@
       "team": "Suecia",
       "name": "Jugador 13",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "SWE16": {
@@ -4964,7 +4964,7 @@
       "team": "Suecia",
       "name": "Jugador 14",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "SWE17": {
@@ -5004,7 +5004,7 @@
       "team": "Suecia",
       "name": "Jugador 18",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "BEL1": {
@@ -5114,7 +5114,7 @@
       "team": "Bélgica",
       "name": "Jugador 9",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "BEL12": {
@@ -5144,7 +5144,7 @@
       "team": "Bélgica",
       "name": "Jugador 12",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "BEL15": {
@@ -5214,7 +5214,7 @@
       "team": "Egipto",
       "name": "Escudo",
       "type": "foil",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "EGY2": {
@@ -5254,7 +5254,7 @@
       "team": "Egipto",
       "name": "Jugador 3",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "EGY6": {
@@ -5294,7 +5294,7 @@
       "team": "Egipto",
       "name": "Jugador 7",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "EGY10": {
@@ -5364,7 +5364,7 @@
       "team": "Egipto",
       "name": "Jugador 14",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "EGY17": {
@@ -5464,7 +5464,7 @@
       "team": "Irán",
       "name": "Jugador 4",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "IRN7": {
@@ -5534,7 +5534,7 @@
       "team": "Irán",
       "name": "Jugador 11",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "IRN14": {
@@ -5654,7 +5654,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 3",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "NZL6": {
@@ -5694,7 +5694,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 7",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "NZL10": {
@@ -5734,7 +5734,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 11",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "NZL14": {
@@ -5744,7 +5744,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 12",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "NZL15": {
@@ -5784,7 +5784,7 @@
       "team": "Nueva Zelanda",
       "name": "Jugador 16",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "NZL19": {
@@ -5814,7 +5814,7 @@
       "team": "España",
       "name": "Escudo",
       "type": "foil",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "ESP2": {
@@ -5864,7 +5864,7 @@
       "team": "España",
       "name": "Pedro Porro",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "ESP7": {
@@ -5904,7 +5904,7 @@
       "team": "España",
       "name": "Rodri",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "ESP11": {
@@ -6034,7 +6034,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 1",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "CPV4": {
@@ -6074,7 +6074,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 5",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "CPV8": {
@@ -6114,7 +6114,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 9",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "CPV12": {
@@ -6204,7 +6204,7 @@
       "team": "Cabo Verde",
       "name": "Jugador 18",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "KSA1": {
@@ -6274,7 +6274,7 @@
       "team": "Arabia Saudí",
       "name": "Jugador 5",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "KSA8": {
@@ -6334,7 +6334,7 @@
       "team": "Arabia Saudí",
       "name": "Jugador 11",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "KSA14": {
@@ -6374,7 +6374,7 @@
       "team": "Arabia Saudí",
       "name": "Jugador 15",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "KSA18": {
@@ -6384,7 +6384,7 @@
       "team": "Arabia Saudí",
       "name": "Jugador 16",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "KSA19": {
@@ -6414,7 +6414,7 @@
       "team": "Uruguay",
       "name": "Escudo",
       "type": "foil",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "URU2": {
@@ -6444,7 +6444,7 @@
       "team": "Uruguay",
       "name": "Ronald Araújo",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "URU5": {
@@ -6454,7 +6454,7 @@
       "team": "Uruguay",
       "name": "José María Giménez",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "URU6": {
@@ -6484,7 +6484,7 @@
       "team": "Uruguay",
       "name": "Guillermo Varela",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "URU9": {
@@ -6554,7 +6554,7 @@
       "team": "Uruguay",
       "name": "Nicolás De La Cruz",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "URU16": {
@@ -6564,7 +6564,7 @@
       "team": "Uruguay",
       "name": "Maxi Araújo",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "URU17": {
@@ -6594,7 +6594,7 @@
       "team": "Uruguay",
       "name": "Rodrigo Aguirre",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "URU20": {
@@ -6614,7 +6614,7 @@
       "team": "Francia",
       "name": "Escudo",
       "type": "foil",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "FRA2": {
@@ -6624,7 +6624,7 @@
       "team": "Francia",
       "name": "Mike Maignan",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "FRA3": {
@@ -6644,7 +6644,7 @@
       "team": "Francia",
       "name": "William Saliba",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "FRA5": {
@@ -6774,7 +6774,7 @@
       "team": "Francia",
       "name": "Désiré Doué",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "FRA18": {
@@ -6844,7 +6844,7 @@
       "team": "Senegal",
       "name": "Moussa Niakhaté",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "SEN5": {
@@ -6944,7 +6944,7 @@
       "team": "Senegal",
       "name": "Lamine Camara",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "SEN15": {
@@ -7024,7 +7024,7 @@
       "team": "Noruega",
       "name": "Foto Equipo",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "NOR3": {
@@ -7054,7 +7054,7 @@
       "team": "Noruega",
       "name": "Jugador 3",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "NOR6": {
@@ -7094,7 +7094,7 @@
       "team": "Noruega",
       "name": "Jugador 7",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "NOR10": {
@@ -7124,7 +7124,7 @@
       "team": "Noruega",
       "name": "Jugador 10",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "NOR13": {
@@ -7204,7 +7204,7 @@
       "team": "Noruega",
       "name": "Jugador 18",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "IRQ1": {
@@ -7244,7 +7244,7 @@
       "team": "Irak",
       "name": "Jugador 2",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "IRQ5": {
@@ -7254,7 +7254,7 @@
       "team": "Irak",
       "name": "Jugador 3",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "IRQ6": {
@@ -7294,7 +7294,7 @@
       "team": "Irak",
       "name": "Jugador 7",
       "type": "base",
-      "owned": true,
+      "owned": false,
       "duplicates": 0
     },
     "IRQ10": {
