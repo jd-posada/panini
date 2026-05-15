@@ -92,11 +92,12 @@
     .filter-btn.active { background: var(--blue); color: #fff; border-color: var(--blue); }
 
     /* SEARCH */
-    .search-wrap { padding: 0.7rem 0.9rem 0; position: relative; }
-    .search-wrap input { width: 100%; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; color: var(--text); font-size: 0.85rem; padding: 0.6rem 2.2rem 0.6rem 0.9rem; outline: none; box-sizing: border-box; }
-    .search-wrap input::placeholder { color: var(--muted); }
-    .search-wrap input:focus { border-color: var(--blue); }
-    .search-clear { display: none; position: absolute; right: 0.65rem; top: 50%; transform: translateY(-50%); background: var(--border); border: none; color: var(--muted); font-size: 0.7rem; cursor: pointer; width: 1.35rem; height: 1.35rem; border-radius: 50%; line-height: 1.35rem; text-align: center; padding: 0; }
+    .search-wrap { padding: 0.7rem 0.9rem 0; }
+    .search-inner { position: relative; }
+    .search-inner input { width: 100%; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; color: var(--text); font-size: 0.85rem; padding: 0.6rem 2.2rem 0.6rem 0.9rem; outline: none; box-sizing: border-box; }
+    .search-inner input::placeholder { color: var(--muted); }
+    .search-inner input:focus { border-color: var(--blue); }
+    .search-clear { display: none; position: absolute; right: 0.5rem; top: 50%; transform: translateY(-50%); background: var(--border); border: none; color: var(--muted); font-size: 0.7rem; cursor: pointer; width: 1.35rem; height: 1.35rem; border-radius: 50%; line-height: 1.35rem; text-align: center; padding: 0; }
     .search-clear:hover { background: var(--muted); color: var(--text); }
     .search-wrap.has-value .search-clear { display: block; }
 
@@ -299,8 +300,10 @@
 
 <!-- SEARCH -->
 <div class="search-wrap" id="search-wrap">
-  <input type="text" id="search" placeholder="Buscar equipo o código (ej: ARG, Colombia)…" oninput="onSearchInput()">
-  <button class="search-clear" onclick="clearSearch()" aria-label="Borrar">✕</button>
+  <div class="search-inner">
+    <input type="text" id="search" placeholder="Buscar equipo o código (ej: ARG, Colombia)…" oninput="onSearchInput()">
+    <button class="search-clear" onclick="clearSearch()" aria-label="Borrar">✕</button>
+  </div>
 </div>
 
 <!-- GROUP TABS -->
