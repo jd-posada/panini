@@ -92,10 +92,13 @@
     .filter-btn.active { background: var(--blue); color: #fff; border-color: var(--blue); }
 
     /* SEARCH */
-    .search-wrap { padding: 0.7rem 0.9rem 0; }
-    .search-wrap input { width: 100%; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; color: var(--text); font-size: 0.85rem; padding: 0.6rem 0.9rem; outline: none; }
+    .search-wrap { padding: 0.7rem 0.9rem 0; position: relative; }
+    .search-wrap input { width: 100%; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; color: var(--text); font-size: 0.85rem; padding: 0.6rem 2.2rem 0.6rem 0.9rem; outline: none; box-sizing: border-box; }
     .search-wrap input::placeholder { color: var(--muted); }
     .search-wrap input:focus { border-color: var(--blue); }
+    .search-clear { display: none; position: absolute; right: 0.6rem; top: 50%; transform: translateY(-50%); background: none; border: none; color: var(--muted); font-size: 1.1rem; cursor: pointer; padding: 0.2rem 0.4rem; line-height: 1; }
+    .search-clear:hover { color: var(--text); }
+    .search-wrap.has-value .search-clear { display: block; }
 
     /* TEAMS GRID */
     .section-label { padding: 0.5rem 0.9rem 0; font-size: 0.7rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; }
@@ -295,8 +298,9 @@
 </div>
 
 <!-- SEARCH -->
-<div class="search-wrap">
-  <input type="text" id="search" placeholder="Buscar equipo o código (ej: ARG, Colombia)…" oninput="renderTeams()">
+<div class="search-wrap" id="search-wrap">
+  <input type="text" id="search" placeholder="Buscar equipo o código (ej: ARG, Colombia)…" oninput="onSearchInput()">
+  <button class="search-clear" onclick="clearSearch()" aria-label="Borrar">✕</button>
 </div>
 
 <!-- GROUP TABS -->
@@ -449,6 +453,19 @@ function getSections() {
   return sections;
 }
 
+function onSearchInput() {
+  const wrap = document.getElementById('search-wrap');
+  const val = document.getElementById('search').value;
+  wrap.classList.toggle('has-value', val.length > 0);
+  renderTeams();
+}
+function clearSearch() {
+  const input = document.getElementById('search');
+  input.value = '';
+  document.getElementById('search-wrap').classList.remove('has-value');
+  input.focus();
+  renderTeams();
+}
 function renderTeams() {
   if (!db) return;
   const query = document.getElementById('search').value.toLowerCase();
