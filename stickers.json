@@ -2,8 +2,8 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 783,
-    "lastUpdated": "2026-05-15",
+    "collected": 815,
+    "lastUpdated": "2026-05-16",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
   "stickers": {
@@ -244,7 +244,7 @@
       "team": "México",
       "name": "Jorge Sánchez",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX5": {
@@ -284,7 +284,7 @@
       "team": "México",
       "name": "Diego Lainez",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX9": {
@@ -324,7 +324,7 @@
       "team": "México",
       "name": "Marcel Ruiz",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "MEX13": {
@@ -674,7 +674,7 @@
       "team": "Corea del Sur",
       "name": "Hanbeom Lee",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KOR8": {
@@ -744,7 +744,7 @@
       "team": "Corea del Sur",
       "name": "Seungho Paik",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "KOR15": {
@@ -1494,7 +1494,7 @@
       "team": "Qatar",
       "name": "Jugador 7",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT10": {
@@ -1564,7 +1564,7 @@
       "team": "Qatar",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "QAT17": {
@@ -1834,7 +1834,7 @@
       "team": "Brasil",
       "name": "Bento",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BRA4": {
@@ -2304,7 +2304,7 @@
       "team": "Haití",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "HAI11": {
@@ -2364,7 +2364,7 @@
       "team": "Haití",
       "name": "Jugador 14",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "HAI17": {
@@ -2834,7 +2834,7 @@
       "team": "Paraguay",
       "name": "Jugador 1",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR4": {
@@ -2844,7 +2844,7 @@
       "team": "Paraguay",
       "name": "Jugador 2",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR5": {
@@ -2864,7 +2864,7 @@
       "team": "Paraguay",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR7": {
@@ -2874,7 +2874,7 @@
       "team": "Paraguay",
       "name": "Jugador 5",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR8": {
@@ -2904,7 +2904,7 @@
       "team": "Paraguay",
       "name": "Jugador 8",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR11": {
@@ -2914,7 +2914,7 @@
       "team": "Paraguay",
       "name": "Jugador 9",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR12": {
@@ -2954,7 +2954,7 @@
       "team": "Paraguay",
       "name": "Jugador 13",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR16": {
@@ -2994,7 +2994,7 @@
       "team": "Paraguay",
       "name": "Jugador 17",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAR20": {
@@ -3004,7 +3004,7 @@
       "team": "Paraguay",
       "name": "Jugador 18",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "AUS1": {
@@ -4924,7 +4924,7 @@
       "team": "Suecia",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SWE13": {
@@ -5144,7 +5144,7 @@
       "team": "Bélgica",
       "name": "Jugador 12",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "BEL15": {
@@ -5864,7 +5864,7 @@
       "team": "España",
       "name": "Pedro Porro",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "ESP7": {
@@ -6484,7 +6484,7 @@
       "team": "Uruguay",
       "name": "Guillermo Varela",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "URU9": {
@@ -6644,7 +6644,7 @@
       "team": "Francia",
       "name": "William Saliba",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "FRA5": {
@@ -6844,7 +6844,7 @@
       "team": "Senegal",
       "name": "Moussa Niakhaté",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "SEN5": {
@@ -7124,7 +7124,7 @@
       "team": "Noruega",
       "name": "Jugador 10",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "NOR13": {
@@ -8064,7 +8064,7 @@
       "team": "Jordania",
       "name": "Jugador 4",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "JOR7": {
@@ -8214,7 +8214,7 @@
       "team": "Portugal",
       "name": "Escudo",
       "type": "foil",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "POR2": {
@@ -8244,7 +8244,7 @@
       "team": "Portugal",
       "name": "Rúben Dias",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "POR5": {
@@ -8774,7 +8774,7 @@
       "team": "Colombia",
       "name": "Jhon Arias",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "COL18": {
@@ -9254,7 +9254,7 @@
       "team": "Croacia",
       "name": "Jugador 3",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "CRO6": {
@@ -9784,7 +9784,7 @@
       "team": "Panamá",
       "name": "Jugador 16",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "PAN19": {
