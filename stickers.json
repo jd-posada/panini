@@ -2,7 +2,7 @@
   "metadata": {
     "album": "Panini FIFA World Cup 2026",
     "total": 980,
-    "collected": 975,
+    "collected": 976,
     "lastUpdated": "2026-05-16",
     "note": "Grupos provisionales - verificar con álbum físico"
   },
@@ -3504,7 +3504,7 @@
       "team": "Alemania",
       "name": "Joshua Kimmich",
       "type": "base",
-      "owned": false,
+      "owned": true,
       "duplicates": 0
     },
     "GER11": {
